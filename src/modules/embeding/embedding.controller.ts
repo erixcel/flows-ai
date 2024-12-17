@@ -36,8 +36,10 @@ export class EmbeddingController {
     @Body('database') database: string,
     @Body('collection') collection: string,
     @Body('index') index: string,
+    @Body('field') field: string,
+    @Body('filters') filters: string[],
   ): Promise<void> {
-    await this.embeddingService.createAtlasVectorIndex(database, collection, index);
+    await this.embeddingService.createAtlasVectorIndex(database, collection, index, field, filters);
   }
 
   @Post('vector-query-atlas')
@@ -46,8 +48,9 @@ export class EmbeddingController {
     @Body('database') database: string,
     @Body('collection') collection: string,
     @Body('index') index: string,
+    @Body('buildings') buildings: string[],
   ): Promise<any> {
-    return await this.embeddingService.vectorQueryAtlas(query, database, collection, index);
+    return await this.embeddingService.vectorQueryAtlas(query, database, collection, index, buildings);
   }
 
   @Post('split-text-paragraphs')

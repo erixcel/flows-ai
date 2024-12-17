@@ -73,29 +73,52 @@ export class EmbeddingService {
   }
   
 
-  async createAtlasVectorIndex(database: string, collection: string, index: string): Promise<void> {
-    const ref = this.mongo.db(database).collection(collection);
+  async createAtlasVectorIndex(
+    database: string, 
+    collection: string, 
+    index: string,
+    field: string,
+    filters: string[],
+  ): Promise<void> {
 
+    const ref = this.mongo.db(database).collection(collection);
+    const fields: any[] = [
+      {
+        type: "vector",
+        path: field,
+        similarity: "dotProduct",
+        numDimensions: 1536,
+      },
+      ...filters.map(name => ({
+        type: "filter",
+        path: name
+      }))
+    ];
+  
     const indexDefinition: SearchIndexDescription = {
       name: index,
       type: "vectorSearch",
       definition: {
-        fields: [
-          {
-            type: "vector",
-            path: "embedding",
-            similarity: "dotProduct",
-            numDimensions: 1536,
-          }
-        ]
+        fields: fields
       }
     };
-
-    const result = await ref.createSearchIndex(indexDefinition);
-    console.log("Índice creado:", result);
+  
+    // Crear el índice en Atlas
+    try {
+      const result = await ref.createSearchIndex(indexDefinition);
+      console.log("Índice creado con éxito:", result);
+    } catch (error) {
+      console.error("Error al crear el índice:", error.message);
+    }
   }
 
-  async vectorQueryAtlas(query: string, database: string, collection: string, index: string) {
+  async vectorQueryAtlas(
+    query: string, 
+    database: string, 
+    collection: string, 
+    index: string,
+    buildings: string[]
+  ) {
     const db = this.mongo.db(database);
     const ref = db.collection(collection);
 
@@ -109,12 +132,16 @@ export class EmbeddingService {
           path: "embedding",
           exact: true,
           limit: 2,
+          filter: {
+            building: { $in: buildings }
+          }
         }
       },
       {
         $project: {
           _id: 0,
           text: 1,
+          building: 1,
           score: { $meta: "vectorSearchScore" }
         }
       }
