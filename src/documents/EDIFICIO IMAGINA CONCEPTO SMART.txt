@@ -1,84 +1,780 @@
-¡Bienvenido a un nuevo concepto de sostenibilidad!
-Tu edificio utiliza Domus bajo una suscripción que se paga con residuos sólidos. Es
-suficiente segregar correctamente para acceder a nuestras funcionalidades.
-Construyamos juntos una ciudad más sostenible
-1. ¿Por qué es importante reciclar?
-Reciclar ayuda a reducir la cantidad de residuos que llegan a los vertederos, disminuyendo
-la contaminación y fomentando la reutilización de materiales. Al hacerlo, también
-contribuyes a mantener activa tu suscripción a Domus sin costo adicional, solo con la
-correcta disposición de tus residuos.
-2. ¿Qué es el reciclaje?
-El reciclaje consiste en separar los residuos para que puedan ser reutilizados o
-transformados en nuevos productos. Así, ayudamos a conservar recursos naturales y
-reducir la emisión de gases de efecto invernadero.
-3. ¿Cómo debo segregar mis residuos?
-Es muy sencillo. Solo necesitas separar tus residuos en 4 categorías:
-A. Residuos Orgánicos
-Son restos de alimentos o residuos biodegradables. Pueden transformarse en compost o
-abono natural.
-● Ejemplos: cáscaras de frutas y verduras, restos de comida, flores secas, cáscaras
-de huevo.
-● Consejo: Usa una bolsa biodegradable para estos residuos y recuerda que no
-deben estar mezclados con plásticos o metales.
-B. Plásticos y Tetrabricks
-Materiales plásticos que pueden ser reciclados y reutilizados.
-● Ejemplos: botellas de agua, envases de yogur, bolsas de plástico limpias,
-envolturas de alimentos, empaques Tetra Pak.
-● Consejo: Enjuaga bien los envases antes de desecharlos para que estén limpios y
-secos. Eso facilitará su reciclaje.
-C. Papeles y Cartones
-Incluye todos los tipos de papeles y cartones reciclables.
-● Ejemplos: periódicos, revistas, cajas de cartón, papeles impresos.
-● Consejo: Evita mojar el papel, ya que el agua disminuye la calidad del material
-reciclado.
-D. Vidrio
-Todo tipo de envases y botellas de vidrio, siempre que estén limpios y sin residuos.
-● Ejemplos: botellas de vidrio, frascos de alimentos.
-● Consejo: Retira las tapas y enjuaga los recipientes antes de desecharlos.
-4. ¿Qué hacer con los residuos que no se reciclan?
-Algunos materiales no pueden ser reciclados. Por eso es importante separarlos
-adecuadamente.
-● Ejemplos: pañales, colillas de cigarrillos, papel higiénico, envases de comida
-contaminados.
-● Consejo: Usa una bolsa específica para este tipo de residuos y deposítalos en los
-contenedores de "no reciclables".
-5. Consejos para reciclar en casa
-1. Organiza un sistema de separación:
-○ Asigna diferentes contenedores o bolsas para cada tipo de residuo (plásticos,
-papel, vidrio, orgánicos).
-○ Coloca los contenedores en áreas estratégicas, como la cocina o el patio,
-para facilitar la segregación diaria.
-2. Compra productos con envases reciclables o reutilizables:
-○ Prefiere envases de vidrio, cartón o plástico reciclado.
-○ Elige productos a granel o con menos empaques para reducir la cantidad de
-residuos.
-○ Opta por botellas retornables o envases reutilizables para bebidas y
-alimentos.
-○ Evita comprar productos con mucho embalaje de plástico o no reciclable.
-3. Reutiliza antes de reciclar:
-○ Usa frascos de vidrio como recipientes de cocina o para almacenamiento.
-○ Transforma cajas de cartón en organizadores para el hogar.
-○ Guarda bolsas de papel o tela para futuras compras y evita el uso de bolsas
-plásticas.
-4. Minimiza el uso de productos de un solo uso:
-○ Sustituye los utensilios de plástico desechable por alternativas reutilizables
-como cubiertos de metal o bambú.
-○ Utiliza recipientes de vidrio o acero inoxidable para almacenar alimentos en
-lugar de bolsas plásticas.
-○ Lleva contigo un termo o botella de agua reutilizable en lugar de comprar
-botellas desechables.
-6. Consejos adicionales para un reciclaje eficiente
-● Lava y seca los envases: Asegúrate de que los envases de plástico, vidrio y latas
-estén limpios antes de reciclarlos. Esto evita malos olores y facilita el proceso de
-reciclaje.
-● Aplasta y compacta: Botellas de plástico, tetrabricks y cajas de cartón deben ser
-aplastados para ahorrar espacio en los contenedores.
-● Infórmate sobre el reciclaje en tu zona: Revisa las normativas locales para saber
-exactamente qué materiales son aceptados y cómo deben ser entregados.
-7. ¿Qué gano al reciclar correctamente?
-Al segregar correctamente tus residuos, no solo contribuyes al cuidado del medio ambiente,
-sino que también mantienes activa la suscripción de tu edificio a Domus, lo que te da
-acceso a todas las funcionalidades del edificio de manera gratuita. ¡Todos ganamos cuando
-reciclamos!
-¡Gracias por ser parte del cambio! Juntos estamos construyendo una ciudad más
-limpia y responsable.
+MANUAL DE CONVIVENCIA EDIFICIO IMAGINA CONCEPTO SMART
+ÍNDICE
+1.	DERECHOS DE LOS PROPIETARIOS / INQUILINOS
+2.	DEL USO DE LAS UNIDADES INMOBILIARIAS
+3.	DE LAS OBLIGACIONES EN GENERAL
+4.	DE LA VENTA Y/O ALQUILER DE LAS PROPIEDADES
+5.	DE LAS MUDANZAS Y TRANSPORTE DE OBJETOS
+6.	DEL MANTENIMIENTO Y CUIDADO DE LAS ÁREAS COMUNES
+7.	DEL INGRESO DE PERSONAS AJENAS AL CONDOMINIO
+8.	DEL USO DE ESTACIONAMIENTOS
+9.	DE LAS REPARACIONES O MODIFICACIONES INTERNAS
+10.	DE LAS REUNIONES SOCIALES Y RUIDOS MOLESTOS
+11.	DE LA ELIMINACIÓN DE LA BASURA
+12.	DE LAS MASCOTAS
+13.	DEL USO DE LAS ÁREAS COMUNES
+
+INTRODUCCIÓN
+El   presente   MANUAL   DE    CONVIVENCIA    DEL    EDIFICIO IMAGINA CONCEPTO SMART, situado en avenida Tomás Marsano 368, distrito de Surquillo- Lima, tiene por objetivo servir de referencia para el comportamiento básico del propietario o inquilino, considerando el espíritu de mutuo respeto, los derechos y obligaciones entre todos los vecinos.
+El propietario y/o inquilino junto con el derecho que tiene a utilizar todos los servicios y facilidades con que cuenta el condominio, adquiere la obligación de informarse sobre las disposiciones del presente Manual, comprometiéndose a cumplirlas y hacerlas cumplir dentro del ámbito de su responsabilidad, sin invocar el desconocimiento para su inobservancia o para eximirse del pago de multa.
+Este documento tiene carácter obligatorio para cualquier persona natural o jurídica que adquiera u ocupe cualquiera de las unidades inmobiliarias del mismo, bajo cualquier título, sea propietario o poseedor, sin excepción ni limitación alguna, quedando entendido que el solo hecho de ser propietario o poseedor queda obligado a respetar fielmente las disposiciones de las presentes Manual de Convivencia.
+De igual modo se ha establecido un Cuadro de Infracciones y Sanciones, que forma parte del presente Manual de Convivencia.
+
+
+JUNTA DIRECTIVA 2022 
+1.	DERECHOS DE LOS PROPIETARIOS / POSEEDORES (INQUILINOS)
+1.1	Los propietarios tienen derecho a:
+1.1.1	Utilizar los bienes y servicios comunes sin más limitaciones que su uso legítimo por todos los demás propietarios y/o poseedores.
+1.1.2	Participar con voz y voto en la Junta General de Propietarios.
+1.1.3	Solicitar a la Junta Directiva para que tomen acción, de acuerdo con las normas establecidas en el presente Manual y sus respectivas sanciones, cuando haya presenciado eventos que atenten contra el espíritu de mutuo respeto, los derechos y obligaciones entre todos los vecinos.
+1.1.4	Otros derechos no mencionados en los acápites anteriores, pero que les correspondan de acuerdo a Ley.
+1.2	Los inquilinos tienen derecho a:
+1.2.1	Utilizar los bienes y servicios comunes sin más limitaciones que su uso legítimo por todos los demás propietarios y/o poseedores.
+
+2.	DEL USO DE LAS UNIDADES INMOBILIARIAS
+El condominio está destinado exclusivamente para uso de vivienda. Los departamentos y/o áreas comunes no pueden ser usados para fines comerciales ni de oficinas de atención al público.
+
+3.	DE LAS OBLIGACIONES EN GENERAL
+3.1	Contribuir oportunamente con el pago de su cuota de mantenimiento, conforme a fin de cubrir los gastos que demande el pago de los servicios comunes, la conservación y mantenimiento de las áreas y los bienes de dominio común. Esta obligación se mantendrá vigente aun cuando el propietario no ocupe su Departamento. Asimismo, el propietario es responsable solidario del poseedor que ocupe su Departamento por todo pago que le corresponda a este último.
+Si el propietario y/o poseedor no cumple con pagar con el costo del mantenimiento mensual y/o alguna multa impuesta en virtud del presente Manual, se adoptarán las siguientes medidas: 
+a)	Si no cumple con el pago de un (01) mes de mantenimiento y/o una (01) Multa:
+1.	Se publicará el número de su departamento en el listado de propietarios morosos, en la pizarra y/o panel que se colocará en cualquier área de acceso del edificio.
+2.	Se les impedirá el acceso a todas las áreas comunes, por ejemplo, Sala de Cine, Zona de Lavandería, Sala Sum, Sala Coworking, Piscina, Sala de Adultos, Sala Gourmet, Sala de Juegos, Gimnasio, Sala de niños y Zona de Parrillas. Se comunicará al área de recepción, a fin de que no se le   transfieran las llamadas del área de conserjería por motivos de visita, delivery u otros.
+3.	La mora por retraso de pago de mantenimiento asciende a 1.00 sol, contado desde el día siguiente de la fecha de vencimiento de cada recibo. La mora se reflejará en el recibo de mantenimiento.
+4.	La mora por el retraso de pago de multas asciende a 0.50 céntimos, la cual se hará efectiva a los 15 días de haber sido notificado con la sanción correspondiente.
+b)	Si no cumple con pagar dos (02) meses de mantenimiento y/o dos (02) Multas: Adicionalmente a las medidas adoptadas en el literal anterior:
+- Se procederá a restringir el acceso al flujo de agua por horarios, teniendo acceso al servicio únicamente por tres horas al día, las cuales podrán ser otorgadas entre las 16:00 horas y las 22:00 horas.
+c)	En caso se mantenga el incumplimiento por más de (02) meses consecutivos y/o más de dos (02) Multas:
+
+Adicionalmente a las medidas adoptadas en el literal anterior:
+- Se iniciarán las acciones legales de cobro pertinentes contra el propietario moroso, sin perjuicio de la comunicación a las Centrales de riesgo. 
+3.2	Queda prohibido efectuar modificaciones en las fachadas de los departamentos que alteren la apariencia original de los edificios del Condominio. Es decir, alteraciones físicas (construcción o pintura) de balcones, rejas, mallas, muros exteriores y ventanas.
+3.3	Queda prohibido alterar, realizar modificaciones o agregados a los espacios, accesos e instalaciones de uso común, a excepción de aquellos acuerdos tomados por mayoría calificada de los Condóminos en beneficio del condominio: Dentro de la torre: mamparas, hall de ingreso, ascensores, hall de cada piso, escaleras, puertas de emergencia, azoteas. Dentro del condominio, pero fuera de la torre: jardines, jardineras, estacionamientos subterráneos.
+3.4	Queda prohibido la instalación de tendales para ropa, cortinas, alfombras, etc. en ventanas o balcones (salvo los portátiles al nivel del balcón, que no sean visibles al exterior) con la finalidad de airearlas, secarlas o sacudirlas (a excepción del piso 1 que cuenta con patio propio). Además, no se podrán colocar avisos publicitarios en las ventanas de los departamentos ni propagandas políticas, salvo aquellos que manifiesten el alquiler o venta del inmueble.
+3.5	Las áreas libres de acceso (hall de ascensores, vestíbulo previo a la escalera de emergencia, escalera de emergencia y entre otras) no pueden ser interrumpidas con cajas, bicicletas u otros objetos. Asimismo, en las recepciones no puede usarse como depósito temporal o permanente de objetos.
+3.6	Está prohibido fumar en todas las áreas comunes y pasadizos internos del edificio tales como por ejemplo: Sala de Cine, Zona de Lavandería, Sala Sum, Sala Coworking, Piscina, Sala de Adultos, Sala Gourmet, Sala de Juegos, Gimnasio, Sala de niños y Zona de Parrillas y Zona Fogón.
+3.7	En caso de vendedores y/o servicios delivery, después de haber sido comunicado por el conserje, recibirá sus pedidos en la explanada del edificio, por lo que el propietario deberá recibirlo sólo en el área en mención.
+3.8	Está prohibido el uso de artefactos pirotécnicos dentro del Condominio, tales como cohetes, cohetones, bengalas de humo o color u otros.
+3.9	Están prohibidos los juegos de carnavales dentro de nuestras instalaciones.
+3.10 	Están prohibidas las siguientes actividades en las áreas comunes: jugar fútbol, vóley, básquet ni otros deportes utilizar y realizar cualquier tipo de trucos o piruetas con skates, patines, bicicletas, scooter o patinetas que puedan deteriorarla infraestructura del área de cualquiera de las áreas comunes del edificio; o que atenten contra la seguridad de los demás niños. Solo se podrá transitar por los pasadizos con patines de línea, o de cuatro ruedas con el único y exclusivo fin de salir del edificio.
+3.11 	No deben colocarse macetas u otros artefactos peligrosos en los bordes de las ventanas, estos pueden causar accidentes al caer a los pisos inferiores.
+3.12 	Está prohibido el uso de los balcones como depósitos.
+3.13 	Está prohibido arrojar papeles, colillas de cigarros y todo tipo de desperdicios en las áreas comunes, así como dejar bolsas de basura fuera del lugar designado para tal propósito.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+4.	DE LA VENTA Y/O ALQUILER DE LAS PROPIEDADES
+En el caso que los propietarios decidan vender o alquilar su predio, estos tienen la obligación de comunicarlo por escrito a la Administración (administracionsmart@diargestion.com)	y	a	la	Directiva (juntadirectivasmart@gmail.com), cinco (05) días después de la firma de la minuta de transferencia del inmueble o de la firma del contrato de alquiler, para lo cual deberá consignar los datos completos (nombre y DNI) del nuevo propietario o inquilino.
+Asimismo, el propietario antes de la celebración del contrato de compraventa y/o alquiler deberá sanear cualquier incumplimiento que se tenga con la Junta Directiva por el pago de las cuotas de mantenimiento, multas y/o servicio de agua, además de hacer entrega a la Junta Directiva del cargo de entrega del presente Manual de Convivencia al nuevo propietario y/o inquilino.
+
+5.	DE LAS MUDANZAS Y TRANSPORTE DE OBJETOS
+Sólo será posible el traslado de equipos y/o cargas en el ascensor destinado para ello (ascensor forrado), siendo de total responsabilidad del propietario cualquier tipo de daño que se ocasione al ascensor. Dicho ascensor será denominado ascensor N° 1.
+Directivas respecto a la mudanza:
+a)	Los interesados deberán avisar a la administración de su futura actividad con un mínimo de 24 horas de anticipación mediante una carta o email al correo administracionsmart@diargestion.com y avisar también al área de conserjería - recepción, proporcionando los datos del personal que ayudará, identificados con su DNI.
+b)	Terminada la mudanza, el personal de vigilancia procederá a la supervisión de paredes, techos, plafones y demás instalaciones del edificio y confirmará que estas se encuentren en buen estado; de lo contrario procederá a reportar algún daño o incidente en el cuaderno de ocurrencias a su cargo. Para lo cual el propietario asumirá el costo de cualquier daño ocasionado.
+c)	El día de la mudanza, el personal a cargo de la misma, procederá al transporte directo de los muebles y enseres al departamento de destino, hasta culminar la descarga. No se podrá dejar acumulados muebles o enseres en el camino, debiendo ser supervisados constantemente.
+d)	Los camiones y vehículos de mudanza no ingresaran al Edificio, así el propietario sea dueño de un estacionamiento.
+e)	Los propietarios o inquilinos que por alguna razón se deban ausentar de sus departamentos y decidieran dejar a alguna persona en su predio, deben comunicarlo a la Administración por escrito o vía email al correo administracionsmart@diargestion.com.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones”
+se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+6.	DEL MANTENIMIENTO Y CUIDADO DE LAS ÁREAS COMUNES
+Se consideran áreas comunes a todos aquellos espacios aledaños a las zonas de departamentos, a los que se encuentran alrededor de cada torre, a los que se encuentran circundando los estacionamientos y a las azoteas, los cuales son de libre tránsito. Todos los propietarios tienen derecho a su uso y disfrute. Están constituidas por:  halls, lobby de entrada a la torre, azoteas, escaleras, Sala de Cine, Zona de Lavandería, Sala de uso multiples “Sum”, Sala Coworking, Piscina, Sala de Adultos, Sala Gourment, Sala de Juegos, Gimnasio, Sala de niños y Zona de Parrillas, jardín interior, vías de acceso o distribución de cocheras, ascensores, etc. y demás indicados en el Reglamento Interno. Por lo tanto, se deberán guardar las consideraciones y respeto entre todos los propietarios para con dichos espacios.
+
+7.	DEL INGRESO DE PERSONAS AJENAS AL CONDOMINIO
+7.1	El personal de vigilancia tiene como función impedir el ingreso de personas no autorizadas al condominio, las cuales sólo podrán hacerlo luego de la autorización del propietario y/o inquilino mayor de edad, y previo registro de su Documento Nacional de Identidad o Carnet de Extranjería en recepción.
+7.2	El personal de seguridad a cargo de la vigilancia tiene la obligación, bajo responsabilidad propia de sus funciones, de anotar en el cuaderno de ocurrencias el ingreso a los departamentos de cualquier persona, llámese empleados, personal técnico, visitas, repartidores a domicilio, obreros autorizados o similares.
+7.3	El propietario o inquilino tiene la obligación de comunicar al personal de vigilancia, Administración (administracionsmart@diargestion.com) y a la Directiva (juntadirectivasmart@gmail.com), el cambio de su personal residente en el edificio, ya sea por cese u otro motivo, mediante forma escrita o email de su personal a cargo como: empleadas domésticas, choferes, seguridad, etc.
+7.4	El propietario asume solidariamente cualquier responsabilidad por los actos que cometan, tanto sus visitas como las del personal a su cargo. Lo cual incluye el pago de multas.
+7.5	El personal de seguridad a cargo de la vigilancia está autorizado a solicitar la presencia de Serenazgo y/o la Policía, en caso de que juzgue conveniente, comunicando esta acción inmediatamente a la Directiva y la Administración a cargo.
+7.6	Está terminantemente prohibido que el personal de seguridad a cargo de la vigilancia, proporcione información a los visitantes o cualquier otra persona sobre la situación o actividades de los residentes y sus familiares de nuestro condominio. Detectada esta acción se procederá a sancionar de acuerdo a ley ocasionando incluso hasta el cese laboral.
+7.7	Está prohibido hacer ingresar cualquier vehículo al estacionamiento que no se encuentre previamente empadronado y/o que no corresponda al propietario o inquilino.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+8.	DEL USO DE ESTACIONAMIENTOS
+8.1	Los estacionamientos, ubicados en los sótanos del condominio, son exclusivamente dedicados para el parqueo vehicular de sus propietarios o inquilinos; por lo tanto, está prohibido usarlos como almacén o depósito de residuos.
+8.2	Se les recuerda a los propietarios / Inquilinos que NO está permitido el ingreso de vehículos como taxis o camiones para carga o descarga.
+8.3	Los estacionamientos desocupados por sus propietarios pueden ser alquilados a terceros, pero sólo a copropietarios o inquilinos de nuestro Condominio. En ningún caso podrán alquilarse a personas ajenas o no residentes del condominio.
+8.4	Está totalmente prohibido ocupar los estacionamientos desocupados sin la autorización respectiva del propietario o inquilino, bajo pena de multa. Esta situación deberá ser comunicada por escrito al Supervisor de Seguridad, a la Administración y a la Junta Directiva.
+8.5	Por ninguna razón debe invadirse las zonas libres o pasadizos de acceso a los estacionamientos.
+8.6	La velocidad máxima en las zonas de estacionamientos es de (15 Km/h)
+8.7	Está prohibido usar las tuberías de agua y/o desagüe de los sótanos como soporte de muebles, o colgar en ellas objetos que pongan en riesgo su estructura.
+8.8	No debe acelerarse exageradamente el automóvil en los estacionamientos de los sótanos, ya que esto genera una excesiva concentración de monóxido de carbono, el cual es muy difícil de eliminar.
+8.9	Se prohíbe uso de la bocina en las zonas de estacionamientos.
+8.10 	Se recomienda a los propietarios de vehículos que se cercioren de dejar las puertas y ventanas cerradas y no dejar objetos de valor en el interior, ya que los daños o pérdidas ocurridas son de su exclusiva responsabilidad.
+8.11 	El lavado y/o limpieza de los autos sólo está permitido dentro del área de su cochera, mediante el uso de paño húmedo, teniendo el suficiente cuidado que no queden charcos de agua y menos basura ocasionada por su limpieza.
+8.12 	En los estacionamientos de los sótanos es obligatoria la circulación con los faros encendidos tanto al ingreso como a la salida durante todo el día.
+8.13 	Los propietarios y/o inquilinos que dejen la puerta de la cochera abierta serán sancionados con una multa.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+9. DE LAS REPARACIONES O MODIFICACIONES INTERNAS
+9.1	En salvaguarda y seguridad de todos los residentes, cuando se trate de reparaciones modificaciones debidamente autorizadas dentro de los departamentos, que lógicamente implica el ingreso de personal ajeno al condominio así como del ingreso de materiales, esto deberá ser comunicado oportunamente a Vigilancia y a la Administración mediante un correo electrónico a administracionsmart@diargestion.com, a fin de realizar las coordinaciones necesarias para preservar la seguridad y el orden. Por lo tanto, el propietario tiene la obligación de proporcionar los datos correspondientes del personal que realizará dichos trabajos y la duración de los mismos.
+9.2	Los propietarios deben coordinar con su personal de obra contratado para la eliminación del material o desmonte que ha generado la obra, por lo tanto, está prohibido que estos sean depositados en los tachos de basura, cocheras, pasadizos, u otros para que sean levantados por nuestro personal de limpieza.
+9.3	El horario para realizar los trabajos y reparaciones, a fin de evitar ruidos molestos, se ha establecido de lunes a viernes de 09:00 am a 05:00 pm y sábados de 9:00 ama 1:00 pm. No está permitido realizar trabajos de reparación, gasfitería, u otros fuera de estos horarios, salvo una emergencia probada y previamente comunicada a la Administración. El ingreso para cualquier proveedor es hasta las 17:00 horas de lunes a viernes y sábados hasta las 12:00 horas, previa comunicación por correo a administracionsmart@diargestion.com y entrega de DNI al personal de seguridad.
+9.4	El personal de Seguridad a cargo de la Vigilancia está autorizado para impedir el ingreso al condominio de los proveedores de servicios de reparación y/o mantenimiento cuando se pretenda realizar obras civiles que no cuentan con autorización de ingreso.
+9.5	El propietario asume toda la responsabilidad de cualquier trabajo que realice en su propiedad y que afecten las instalaciones e infraestructura del edificio o de los demás vecinos.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+10.	DE LAS REUNIONES SOCIALES Y RUIDOS MOLESTOS
+10.1 	En el caso específico de escuchar música dentro del departamento, esto se hará de forma moderada, tomándose la precaución que el volumen no perturbe la tranquilidad de ningún vecino de los departamentos aledaños a éste.
+10.2 	Evitar el uso de palabras soeces a viva voz, llámese insultos o lisuras, en áreas comunes.
+10.3 	Está prohibido el consumo de bebidas alcohólicas, cigarros, drogas o cualquier alucinógeno que atente contra las buenas costumbres de los vecinos del condominio en todas las áreas comunes internas: pasadizos, escaleras u otros.
+10.4 	Está prohibido arrojar por los balcones papeles, colillas de cigarro u otros materiales de desecho hacia las áreas comunes ya que atenta contra la limpieza del condominio.
+10.5 	En el caso de una reunión dentro del departamento la hora máxima de término es de domingo a jueves hasta las 01:00 horas. Los viernes, sábados y días previos a los feriados hasta la 2:00 a.m. horas de excederse este horario, el supervisor del Condominio verificara el evento y pasara por el departamento infractor con el sonómetro y/o videograbador para medir la cantidad de decibeles y reportando el incidente. Si está fuera de lo establecido se reportará a la administración para la posterior multa, conforme al Cuadro de Infracciones y Sanciones.
+Decibeles: 
+DIA: 60 DECIBELES. 
+NOCHE: 50 DECIBELES. 
+MADRUGADA: 40 DECIBELES.
+10.6	En caso de que un propietario y/o inquilino haga sonar la alarma contra incendios consecutivamente por tres veces en el mes por diferentes motivos (cocinar, fumar, etc) que pueda suscitarse, sin que amerite evacuar el edificio por incendio, se le sancionará con una multa, llevando el control de las mismas la administración DIAR (conserjes)
+10.7	Las reuniones sociales en las áreas comunes (parrillas, sala gourmet, sala SUM, sala de adultos, sala de juegos) se realizará con un volumen de 70 decibeles, el que no cumpliera con lo establecido, se hará acreedor de una multa especificada en el cuadro de multas. 
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+11.	DE LA ELIMINACIÓN DE LA BASURA
+11.1	En principio y por obligación toda la basura debe ser embolsada y fuertemente anudada, teniéndose mayor cuidado con aquellas que contengan restos y desperdicios de comida, para evitar que se rompan al ser colocadas en los tachos ubicados en los puntos de acopio.
+Para aquellos vecinos/as que quieran separar sus residuos sólidos a fin de que estos sean reaprovechados por el Programa de Segregación en la Fuente y Recolección Selectiva de Residuos Sólidos del distrito de Surquillo (reciclaje), y recicladores formalizados:
+11.1.1.	Se recomienda que los residuos sólidos (no orgánicos) tales como Tetrapak, plástico, vidrio, metal, u otros, sean enjuagados y secados antes de depositarlos en los contenedores de reciclaje, a fin de prevenir malos olores, aparición de roedores o insectos.
+11.1.2.	Se recomienda que el condominio contenga 3 tachos para segregar: 1.	Papel, cartón y Tetrapak; 2 plásticos y metal, y 3. Vidrio para su adecuado almacenamiento.
+11.1.3	El recojo de los residuos sólidos debe realizarse una vez por semana como mínimo, y dependiendo de la cantidad de residuos sólidos que el condominio genere.
+11.1.4	El personal de limpieza deberá colocar los tachos de reciclaje fuera del condominio en el horario de recojo establecido, y sólo luego de confirmar la llegada del camión o triciclo recolector. Asimismo, deberá supervisar que los tachos queden vacíos para luego retornarlos al punto de acopio. 
+11.2	El personal de limpieza NO recogerá restos de material de construcción, muebles ni objetos distintos a la basura propia de su función de limpieza de las áreas comunes, durante su jornada diaria.
+11.3	Está prohibido dejar basura en las áreas comunes distintas a los puntos de acopio de desperdicios.
+11.4	Por ningún motivo ni razón debe arrojarse desperdicios de comida u otros objetos al desagüe, ni a los sanitarios.
+11.5	Por hacer mal uso y/o atorar el ducto de basura (botar botellas, desechos que no estén bien embolsados, objetos de gran tamaño u otro que dañe dicha área) se hará acreedor de una multa, especificada en el cuadro de multas.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+12.	DE LAS MASCOTAS
+12.1	Es obligatorio que los propietarios y/o inquilinos informen a la Administración,	por	correo	a administracionsmart@diargestion.com y a la Junta Directiva, vía e-mail juntadirectivasmart@gmail.com de la tenencia de mascotas en sus departamentos. Si a la fecha del presente reglamento se contara con uno de ellos, es deber informar a la Junta Directiva la ficha de vacunación en el lapso de cinco días útiles, bajo sanción de multa.
+12.2	De contar con mascotas, los propietarios o inquilinos son enteramente responsables de su cuidado.
+12.3	El desplazamiento de las mascotas deberá de ser por sólo uno de los ascensores. El ascensor destinado será el de carga (Nro. 1) que cuenta con el protector. El dueño es enteramente responsable por la limpieza del ascensor utilizado por su mascota.
+12.4	Está prohibido que las mascotas estén sueltas en las áreas comunes del condominio. Es obligatorio el uso de bozal para las razas consideradas peligrosas ó perros de raza grande, tales como: American staffordshire terrier, pitbull, terrier americano, rottweiler, dogo argentino, dóberman, mastín napolitano, por citar algunas.
+12.5	Toda mascota deberá ser llevada fuera del condominio para hacer sus necesidades, haciéndose responsable su dueño del recojo y/o limpieza de las heces que puedan dejar en veredas, pistas y bermas centrales.
+12.6	Está prohibido el paseo de las mascotas dentro de las áreas verdes del condominio. Si las mascotas llegaran a ensuciar estas áreas, las veredas y/o las zonas de estacionamiento, los dueños se harán responsables de su limpieza y desinfección y en caso se observe que no se ha realizado esta acción se sancionará con una multa.
+12.7	Las mascotas no pueden estar solas en los departamentos por tiempos prolongados ya que al estresarse lloran o ladran, adicionalmente al hecho de que esto le hace daño a la mascota, puede causar molestias a los otros vecinos. Si la mascota se encuentra solo (a) en el departamento y llora por cualquier motivo, el propietario o inquilino será sancionado con una multa.
+12.8	Se encuentra prohibida el maltrato de animales, y la crianza de todo tipo de animal silvestre y/o exótico, de acuerdo a la Ley Nº 30407, Ley de Protección y Bienestar Animal.
+12.9	Las mascotas deberán salir desde la puerta del departamento con su correa, el que incumpla dicha regla será acreedor de una multa.
+El propietario y/o inquilino que no cumpla con estas disposiciones, así como con otras que se establecerán en el “Cuadro de Infracciones y Sanciones” se le sancionará según corresponda. Adjuntamos al presente Manual de Convivencia el referido cuadro.
+
+13.	GENERALIDADES DE ESPACIOS COMUNES EXCLUSIVOS
+a)	Las únicas áreas que se reservan teniendo costo son: Sala Sum, Sala de Adultos, Parrillas, Sala gourmet, sala de juegos y el billar. Estas se reservan unicamente a través de la pagina web: https://www.edificia.pe/users/sign_in
+b)	Las áreas comunes que no tienen costo pero debe anotarse en recepción son: Sala de Cine, sala de niños, sala de juegos, gimnasio y piscina. 
+c)	La reserva de todas las áreas comunes, podrá hacerse con 01 mes de anticipación máximo y hasta 01 día mínimo previo al evento y con el fin de mantener el orden y la justicia en la asignación de las áreas Comunes, se usará el siguiente 
+
+PROCEDIMIENTO:
+i.	Se verificará que el propietario no tenga pagos pendientes de mantenimiento, multas y otros.
+ii.	A igualdad de condiciones de acuerdo a la separación que se realiza por la página web se asignará el área común respectivo.
+iii.	Si el ambiente no ha sido separado, puede ser reservado por cualquier propietario que no tenga obligaciones pendientes con al menos 1 día de anticipación.
+iv.	En caso de cancelación de la reserva de cualquier área común,  solo procederá la devolución de la garantía, cuando el propietario comunique a la administración y a la junta directiva de la cancelación de su evento con 05 días antes de la fecha de separación.
+d)	En el caso de un propietario y su arrendatario, solo tendrán derecho al uso de áreas comunes, quien se encuentre habitando el inmueble, en ningún caso ambos.
+e)	El uso de las áreas comunes por los invitados solo será con presencia del propietario o inquilino.
+f)	El propietario usuario será responsable por la limpieza y cuidados de los equipos y ambientes comunes utilizados.
+g)	Es responsabilidad de cada propietario el cuidado de objetos personales dejados en las áreas comunes del edificio. La Administración no se responsabiliza por la pérdida o robo de los mismos.
+h)	En caso de excesos (peleas, actos contra el pudor, faltas y delitos) debidamente acreditados el propietario quedará inhabilitado de volver a usar cualquier área común por el plazo de un año, desde la notificación al propietario de la suspensión, por parte de la Junta Directiva. Sin perjuicio de la respectiva multa que le corresponda. 
+i)	Los objetos o documentos encontrados en el Edificio deberán ser entregados al personal de conserjería de turno de la recepción, el cual lo registrará y los objetos o documentos quedarán guardados a disposición de los respectivos propietarios, con la debida acreditación, por un periodo de 30 días como máximo. Los objetos no reclamados durante este periodo serán donados a instituciones de caridad, seleccionadas a exclusivo criterio de la Junta Directiva.
+
+14.- USO DE ÁREA DE LA PISCINA Y SALA SUM
+a)	El Área de PISCINA está compuesta por dos (02) ambientes de STAR DE PISCINA, en los cuales se ubican, sillas y mesas con TECHO. Dicha área se encuentra ubicada en la azotea del edificio.
+b)	El Aforo máximo del Área de Piscina es de 40 personas.
+c)	El horario de uso será el siguiente: 1.	Lunes se realizarán labores de mantenimiento al STAR y a la PISCINA. 2.	De Martes a Domingos de 08:00 am hasta las 24:00 pm horas (En el horario de 02:00pm a 3:00pm se realizará la limpieza y mantenimiento de dicha área).
+d)	El uso del área de piscina sólo se realizará a través de la inscripción en el área de recepción, en donde se verificará que el propietario o inquilino esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De haberse producido daños, se le cobrará el costo de la reparación o reposición de mobiliario.
+e)	Asimismo, es obligación del propietario dejar limpia el área utilizada y en el estado que fue encontrado. De lo contrario, deberá pagarse la suma de S/.50 (Cincuenta con 00/100 Nuevos Soles) la cual será cancelada como concepto de limpieza.
+f)	El propietario es enteramente responsable por el cuidado de los equipos y ambientes comunes utilizados por él y sus familiares y/o visitantes. 
+g)	No está permitido el exceso de alcohol en dicha área
+h)	De acuerdo al acta de 30MAR2023 se aprobó que los residentes de Smart puedan tener dos invitados para ingresar al área de piscina.
+i)	La Sala de Usos Múltiples (o Sala Sum) está compuesta por el área techada que contiene un juego de muebles tipo salón, un kitchenet, se ubicada en la azotea del edificio.
+j)	En casos de reservas, se podrá separar la Sala Sum, máximo hasta con un (01) mes de anticipación y cada propietario podrá hacer uso de la misma 02 veces al mes.
+k)	El aforo máximo de la Sala SUM es de 40 personas.
+l)	El horario para el uso de la Sala SUM es el siguiente. 1. De Lunes a Domingo de 05:00 PM hasta 12:00 AM siendo el uso máximo hasta por 7 horas
+m)	Para poder hacer uso efectivo de la Sala SUM, el propietario deberá dejar su documento de identidad en recepción, donde será registrado.
+n)	El costo por uso de la Sala Sum es de cincuenta soles (50.00) monto que será destinado al mantenimiento, refacción y mejoras de dicha área.
+o)	Adicional al costo por uso de la sala sum corresponde otorgar doscientos soles (200.00) de garantía, con dos días de anticipación, a la cuenta de administración, el mismo que al término del evento previa constatación será devuelto al propietario y/o inquilino que realizó uso del mismo.
+p)	Opcionalmente para la limpieza de la Sala Sum utilizada tendrán que pagar cincuenta soles (50.00) para la limpieza de lo contrario el propietario y/o inquilino la entregará limpia.
+q)	Es responsabilidad del usuario verificar al inicio el buen estado de las instalaciones de la Sala Sum, debiendo reportar a la administración cualquier daño previamente ocasionado por el usuario anterior.
+r)	En caso de daños ocasionados a la Sala Sum, el propietario deberá asumir la sanción indicada en el cuadro de sanciones, sin perjuicio de hacerse cargo de la reparación del daño ocasionado. 
+s)	La Sala Sum tiene un fin de entretenimiento y en beneficio de uso de todos los propietarios, NO está permitido el uso de la Sala SUM con un fin lucrativo. De requerirlo se deberá abonar la siguiente suma por concepto de alquiler: S/50 por hora – Monto que se destinará para el fondo de contingencia.
+t)	El propietario o inquilino que utilice la Sala Sum sin autorización será multado, así como inhabilitado para usarlo por el periodo de 6 meses.
+
+15.- Sala de Cine: Está compuesta por 19 butacas (asientos) un Blu-ray, un retroproyector, cuatro cornetas y un amplificador.
+a)	El horario para el uso de la Sala Cine es el siguiente.
+b)	Lunes a domingos de 08:00am hasta las 10:00pm
+c)	(En el horario de 03:00pm a 3:45pm se realizará la limpieza y mantenimiento de dicha área).
+d)	En el área de la Sala de cine, está prohibido fumar, y tomar bebidas alcohólicas. En casos de reservas, se podrá separar la Sala de Cine, máximo hasta con un mes de anticipación. Y cada propietario podrá hacer uso de la misma de acuerdo al orden de solicitud en el cuaderno de recepción.
+e)	El aforo máximo de la Sala de Cine es de 21 personas.
+f)	El uso de la Sala de Cine sólo se realizará a través de la inscripción en el área de recepción, en donde se verificará que el propietario esté habilitado para usar las áreas comunes y/o no tenga deudas por concepto de mantenimiento y/o multas. 16.- Lavandería: Está compuesta por 6 equipos de lavadora y 8 equipos de secadora.
+a)	El horario para el uso de la lavandería es el siguiente: Lunes a domingos de 08:00am hasta las 09:00 pm
+b)	Para poder hacer uso efectivo de la lavandería, el propietario se registrará en recepción, donde se verificará que el propietario esté habilitado para usar áreas comunes y/o no tenga deudas por concepto de mantenimiento y/o multas.
+c)	El propietario y/o inquilino es responsable de sus prendas. Deberá estar atento a la hora que termina el ciclo de lavado o secado. El conserje solo verificará la cantidad de lavadoras o secadoras a utilizar y el tipo de detergente. Solo se aceptará detergente líquido.
+d)	Así mismo el pago de lavandería se realizará de acuerdo a la cantidad de equipos a utilizar (lavadora y/o secadora).
+e)	Los propietarios que no realicen el pago por utilizar el área de lavadoras y/o secadoras serán sancionados
+f)	Los propietarios y/o inquilinos que usan la lavandería se considerará que cada ciclo de lavado será máximo de una hora y el ciclo de secado dos horas, el que no cumpla con lo establecido se hará acreedor de una multa, la misma que refleja en la escala de multas.
+
+17.- Coworking: Está compuesta por 2 mesas 8 sillas para ser utilizadas como un área de estudio de libre acceso para todo propietario.
+a)	El horario para el uso del coworking es el siguiente. Lunes a domingos las 24 horas.
+b)	El uso del área de coworking sólo se realizará a través de la inscripción en el área de recepción, en donde se verificará que el propietario esté habilitado para usar las áreas comunes y/o no tenga deudas por concepto de mantenimiento y/o multas.
+c)	En dicha sala pueden ingresar ocho (08) personas como máximo, de acuerdo a orden de llegada, previa inscripción      en Recepción.
+
+18.- JARDIN INTERIOR
+a)	Queda prohibido el deterioro de las plantas.
+b)	Queda prohibido el derrame de cualquier líquido en las plantas.
+c)	Queda prohibido fumar dentro del área, botar colillas de cigarros, ya que el área es inflamable debido que es un jardín con grass sintético.
+d)	Queda prohibido dejar residuos de cualquier tipo, bajo pena de multa.
+e)	No se puede ingresar a los maceteros.
+f)	Prohibido hacer reuniones sociales.
+
+19.- USO DE MASCARILLA EN ESTADO DE EMERGENCIA
+Por disposición del Estado, se implantó el uso obligatorio de mascarilla por el estado de emergencia en el país.
+
+20.- SOBRE USO DE LAS PORTABICICLETAS
+Por cada sótano solo se colocarán seis (06) bicicletas, con sus respectivas cadenas por seguridad, el encontrar bicicletas fuera de lugar o sobrepasando la capacidad de las portabicicletas será acreedor de una sanción.
+
+21.- SOBRE USO DE ESTACIONAMIENTOS DE VISITA 
+El uso de estacionamiento de visita por votación en junta de propietarios del 30MAR2023 es ilimitado, es exclusivo para VISITAS, ni un residente (propietario y/o inquilino) puede hacer uso de dichos estacionamientos.
+
+22.- APLICAR EL 50% POR REINCIDENTES EN FALTAS COMETIDA DE ACUERDO AL MANUAL DE CONVIVENCIA.
+Se estableció en junta de propietarios del 30MAR2023 que los propietarios y/o inquilinos que sean reincidentes con la misma falta se le incrementará el 50% del costo de la multa respectiva.
+
+ES NUESTRO DEBER INFORMAR A LOS CONDÓMINOS, QUE EL ENTE ENCARGADO DE HACER CUMPLIR ESTAS DISPOSICIONES ES LA JUNTA DIRECTIVA A TRAVÉS DE LOS SUPERVISORES Y PERSONAL DE CONSEJERÍA, POR TANTO, AGRADECEREMOS SE SIRVAN DAR LAS FACILIDADES Y RESPETO DEL CASO PARA QUE TODOS TENGAMOS UNA MEJOR CONVIVENCIA.
+ADJUNTAMOS EL CUADRO DE INFRACCIONES Y SANCIONES QUE HA SIDO APROBADO POR LA JUNTA DE PROPIETARIOS, INDICANDO LAS ACCIONES QUE SON MOTIVO DE SANCIONES O MULTA POR EL INCUMPLIMIENTO DE LAS MISMAS.
+EN CASO DE APLICARSE UNA MULTA, ÉSTA SERÁ CARGADA EN LA CUOTA DE MANTENIMIENTO MENSUAL DEL PROPIETARIO INFRACTOR EN EL MES INMEDIATO A LA INFRACCIÓN.
+Junta Directiva 2023 
+CUADRO DE INFRACCIONES Y SANCIONES – EDIFICIO IMAGINA CONCEPTO SMART
+
+MANUAL	DESCRIPCIÓN	MONTO
+3.2	Realizar alguna	modificación en	la fachada de su departamento alterando la apariencia original del edificio. S/150.00 y medida correctiva
+3.3	Realizar alguna modificación en el área de uso común. S/150.00 y medida correctiva
+3.4	Instalar tendales de ropa (salvo los portátiles al nivel del balcón, que no sean visibles al exterior) y otros anuncios publicitarios o propagandas políticas en las ventanas o balcones. S/80.00
+3.5	Interrumpir con cajas, bicicletas u otros objetos las áreas de libre acceso. S/80.00
+3.6	Fumar en las áreas comunes.	S/80.00
+3.8	Usar artefactos pirotécnicos dentro del Condominio.	S/150.00
+3.9	Jugar carnavales dentro de las instalaciones del edificio. S/150.00
+3.10 	Jugar fútbol, vóley, básquet ni otros deportes, tampoco utilizar y realizar cualquier tipo de trucos o piruetas con skates, patines, bicicletas, scooter o patinetas en los pasadizos del edificio y áreas comunes. S/80.00
+3.11 	Colocar macetas u otros artefactos peligrosos, en los bordes de las ventanas y/o balcones S/ 80.00
+3.12 	Usar el balcón como depósito. S/80.00
+3.13 	Arrojar papeles, colillas de cigarro y todo tipo de desperdicios en las áreas comunes.
+
+MODIFICACIÓN SEGÚN ACTA DEL 18 ABRIL 2021
+“Arrojar papeles, colillas de cigarros y todo tipo de desperdicios en las áreas	Comunes, terrazas y/o balcones”	
+5 Trasladar equipos o cargas en el ascensor no forrado.	S/80.00
+5.c	Dejar acumulados muebles o enseres de mudanza en los pasadizos y en las áreas de uso común. S/80.00
+
+MODIFICACIÓN SEGÚN ACTA DEL 18 ABRIL 2021
+“Dejar acumulados muebles o enseres en los pasadizos y en cualquier área común”
+5.d	Dejar ingresar camiones y vehículos de mudanza al edificio. S/80.00	
+8.1	Usar como depósito de residuos el estacionamiento. S/150.00
+
+MODIFICACIÓN SEGÚN ACTA DEL 18 ABRIL 2021
+“Usar como Deposito el estacionamiento”.
+8.2	Permitir el ingreso de vehículos como taxis o camiones para carga o descarga S/80.00
+8.4	Utilizar un estacionamiento desocupado sin autorización. S/80.00
+8.5	Invadir las zonas libres o pasadizos de acceso a los estacionamientos. S/150.00
+8.7	Usar la tubería de agua y/o desagüe como soporte de muebles o colgar en ella objetos. S/80.00	
+8.11 	Dejar charcos de agua o basura luego del lavado y/o limpieza del auto en el estacionamiento. S/80.00	
+8.13 	Dejar la puerta de cochera abierta. S/100.00
+9.2	Dejar desmonte o materiales generados en obra en los tachos de basura, cocheras, pasadizos u otras áreas comunes. S/.100.00	
+9.3	Realizar trabajos y reparaciones con ruidos molestos en los horarios no establecidos. S/150.00
+10.1 Escuchar música dentro del departamento a un volumen que perturba a los vecinos. S/80.00 x DÍA
+
+MODIFICACIÓN SEGÚN ACTA DEL 18 ABRIL 2021
+“Escuchar música, televisión y/o vociferar dentro del departamento a un volumen que perturba a los vecinos”	
+10.2 El uso de palabras soeces a viva voz (insultos o lisuras) en áreas comunes S/80.00
+10.3 Consumir bebidas alcohólicas, cigarros, drogas o cualquier alucinógeno en las áreas comunes internas: pasadizos, escaleras u otros. S/80.00	
+10.5 Tener reuniones por encima de los decibeles permitidos en los horarios indicados. S/100.00
+10.6 Hacer sonar la alarma contra incendios consecutivamente por tres veces en el mes por los diferentes motivos (cocinar, fumar, etc) sin que amerite evacuar el edificio por incendio. S/80.00
+10.7 En todas las áreas comunes que se realicen reuniones sociales podrán tener volumen de equipos y/o otros a  70 decibeles, si excede se impondrá la multa respectiva. S/.150.00
+
+APROBADO CON ACTA 30 MAR 2023	
+11.3 Dejar bolsas de basura en las áreas comunes. S/80.00
+11.5 Por hacer mal uso del ducto de basura y/o atorarlo. S/80.00
+
+APROBADO CON ACTA 05 DIC 2021
+12.1	Informar por email administracionsmart@diargestion.com y a la Junta Directiva, juntadirectivasmart@gmail.com de la tenencia de mascotas en sus departamentos con sus respectivas fichas de vacunación. S/150.00
+12.3 	Desplazar a sus mascotas por el ascensor no permitido.	S/.80.00
+12.4 	Tener suelta a su mascota en las áreas comunes y/o llevar a su mascota sin bozal por áreas comunes para razas indicadas S/80.00	
+12.6 	Pasear las mascotas dentro de las áreas verdes y áreas comunes del condominio. Si las mascotas llegaran a ensuciar estas áreas, veredas y/o las zonas de estacionamiento, los dueños se harán responsables de su limpieza y desinfección y en caso se observe que no se ha realizado esta acción se sancionará. S/100.00
+12.6 	Si la mascota llegara a ensuciar las áreas comunes y el dueño no realiza la limpieza de esta. S/100.00
+12.7 	Si la mascota se encuentra solo (a) en el departamento y llora por cualquier motivo. S/150.00
+12.9 	Las mascotas deberán salir de la puerta del departamento con su correa, el que no cumpliese será acreedora de multa. S/150.00
+13.g 	Ocasionar peleas, actos contra el pudor, faltas o delitos en el área depiscina y/o Sala SUM. S/. 80.00
+
+MODIFICACIÓN SEGÚN ACTA DEL 18 ABRIL 2021
+“Ocasionar peleas, actos contra el pudor, falta o delitos en cualquier aérea de uso común”	
+14.e Dejar sucia la Sala SUM. S/. 150.00 e inhabilitación por unaño
+14.q Dañar la Sala SUM.	S/. 100.00
+14.s Utilizar la Sala SUM sin autorización.	S/.100.00
+15.b Fumar en la sala de cine. S/.150.00 e inhabilitación por 6 meses
+16.e Propietarios y/o inquilinos que utilicen el área de lavadora y/o secadoras sin pagar. S/.150.00
+
+APROBADO SEGÚN ACTA DEL 18 ABRIL 2021	
+16.f Propietarios y/o inquilinos, utilizaran la  lavandería una (1) hora para ciclo de lavado y dos (2) horas para el ciclo de secado, si excediera se hará acreedora de una multa. S/.150.00
+
+APROBADO SEGÚN ACTA DEL 05 DIC 2021
+18.a Dañar las plantas y/o jardines de las áreas comunes del edificio. S/80.00
+
+MODIFICACIÓN SEGÚN ACTA DEL 18 ABRIL 2021
+“Dañar cualquier área común del edificio, más el pago de gastos de remodelación”
+19	Por no usar mascarilla en Estado de Emergencia S/. 80.00
+20	Por no respetar el buen uso de la zona de bicicletas, solo se estacionarán seis (06) bicicletas en el 1er sótano y ocho (08) del 2do al 5to.sótano con su respectiva cadena de seguridad. APROBADO CON ACTA 18 ABRIL 2021 S/.100.00
+22	Se impondrá multa del 50% mas a los residentes que sean reincidentes en la misma falta. S/. 80.00
+
+APROBADO CON ACTA DEL 30 MAR 2023 DE:
+80.00 A 120.00
+100.00 A 150.00
+150.00 A 225.00
+ESCALAS
+LEVE	S/. 80
+GRAVE	S/. 100
+MUY GRAVE	S/. 150
+
+Manual Del Uso De Las Áreas Comunes
+MANUAL DE USO DE LA SALA DE ADULTOS
+a)	La Sala de Adultos está compuesta por el área techada que contiene la mesa de billar y una zona de bar, ubicada en la azotea de la Torre B.
+b)	En casos de reservas, la Sala de Adultos se podrá separar máximo hasta con dos (02) meses de anticipación.
+c)	El aforo máximo de la Sala es de 30 personas.
+d)	El horario para el uso de la Sala es el siguiente: todos los días de 9:00 am hasta las 1:00 am, siendo el uso máximo por reserva de 6 horas.
+e)	La Sala podrá ser utilizada individualmente y/o compartida con otros propietarios/inquilino y sus invitados; tomando en cuenta que deberá registrarse su uso previamente en recepción presencialmente o a través del intercomunicador. Antes de utilizar la Sala de Adultos se realizará una inspección visual en compañía de un conserje y se firmará un Acta de Conformidad donde el usuario podrá indicar eventuales imperfecciones y observaciones que tenga el área antes de su uso.
+f)	Cada residente podrá invitar hasta un máximo de 3 invitados, quienes se registrarán con su documento nacional de identidad en recepción.
+g)	En caso de daños ocasionados a la Sala por un inadecuado uso de las instalaciones el propietario deberá asumir la reparación del daño ocasionado en un lapso máximo de 15 días. De no hacerlo, será cobrado de la cuota de mantenimiento mensual.
+h)	El Sala también podrá ser reservada para tener uso exclusivo de ella y tendrá un costo de reserva y utilización de S/. 150.00 (ciento cincuenta con 00/100 soles) por 6 horas, monto que será utilizado como fondo para mantener y mejorar las instalaciones. La reserva se realizará en la web, en donde se verificará que el propietario esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De tenerlas o estar inhabilitado no podrá utilizar la Sala. Dicho monto será abonado el mismo día de la reserva. La limpieza está incluida en pago.
+i)	Excepcionalmente, se podrán separar todo el día, solo si no ha sido separado previamente hasta el mismo día del evento, en cuyo caso el precio de reserva y utilización será de S/200.00 (doscientos con 00/100 Soles). Dicho monto será abonado el mismo día de la reserva. La limpieza está incluida en pago.
+j)	Adicionalmente, el residente que desee utilizar exclusivamente a través de reserva esta Sala deberá depositar a la cuenta destinada para ello un fondo de garantía de S/200.00 (doscientos con 00/100 soles). Este importe será devuelto después de verificar que el salón se encuentre en las mismas condiciones que se entregó. De haberse producido daños, se descontará el costo de la reparación o reposición de mobiliario del fondo de garantía. Si el monto no llegase a cubrir el daño ocasionado, la diferencia será cargada dentro de la cuota de mantenimiento del propietario que reservó el espacio. La devolución de los montos de garantía se realizará en un plazo máximo de 3 días calendarios, de caer sábado o domingo se realizará al siguiente día hábil.
+k)	Solo está permitida la reserva de lunes a sábado.
+l)	La reserva podrá ser anulada sin costo alguno si se solicitara 2 semana antes de la fecha de reserva. Si la reserva fuera anulada con 1 semana de anticipación serán descontados S/. 50.00 (cincuenta con 00/100 soles), mientras serán descontados S/. 100.00 (cien con 00/100 soles) cuando se cancele hasta 24 horas antes o el mismo día de la reserva.
+m)	Una vez realizado el depósito, se deberá remitir un correo con la foto de dicho voucher a las siguientes direcciones: juntadirectivasmart@gmail.com y administracionsmart@diargestion.com.
+n)	Las botellas de vino podrán ser utilizadas previa comunicación al Conserje. La reposición estará a cargo del usuario, quien podrá reponer la misma cantidad de botellas, de la misma marca y tipo antes de las 11:30 am del día siguiente o pagar el monto de S/ 35.00 (treinta y cinco con 00/100 soles) por botella utilizada.
+o)	El propietario y el inquilino son solidariamente responsables por el cuidado de los equipos y ambientes comunes utilizados por él y sus familiares y/o visitantes.
+p)	La eventual instalación de equipos de sonido en esta zona estará permitida, pero su consecuente uso no deberá superar el límite de decibeles permitidos en el resto del edificio según el Manual de Convivencia.
+q)	Para poder hacer uso efectivo de esta Sala, tanto bajo reserva como a uso libre, el propietario deberá dejar su documento nacional de identidad en recepción, donde será registrado y se le otorgará la caja conteniendo las bolas de billas completas y en buen estado, el taco, así como cualquier accesorio adicional que hubiera (tiza y/o guantes).
+r)	Es responsabilidad del usuario verificar al inicio el buen estado de las instalaciones de la Sala, debiendo reportar a la administración cualquier daño previamente ocasionado por el usuario anterior.
+s)	Cada propietario/inquilino tiene un máximo de 2 horas libres para el uso de la mesa de billas al día, a fin de dar oportunidad de jugar a todos los residentes. El costo de la mesa de billas es de 10 soles (diez con 00/100 soles).
+t)	La mesa de billas no puede ser utilizada como posavasos.
+u)	En caso de excesos (peleas, actos contra el pudor, faltas y/o delitos) debidamente acreditados, el propietario quedará inhabilitado  de  volver  a usar esta área por el plazo de un año, desde la notificación al propietario de la suspensión. Sin perjuicio de la respectiva multa que le corresponda.
+v)	No está permitido el exceso de alcohol en dicha área. No está permitido fumar.
+w)	Para ingresar a esta área es necesario contar con la vacunación completa.
+x)	La Sala es de uso exclusivo para mayores de edad.
+
+La Administración
+Manual Del Uso De Las Áreas Comunes Manual De Uso Sala Cine
+Sala de Cine: Está compuesta por 19 butacas	(asientos) un Blu-ray, un retroproyector, cuatro cornetas y un amplificador.
+a)	El horario para el uso de la Sala Cine es el siguiente.
+b)	Lunes a domingos de 08:00am hasta las 10:00pm
+c)	(En el horario de 03:00pm a 3:45pm se realizará la limpieza y mantenimiento de dicha área).
+d)	En el área de la Sala de cine, está prohibido fumar, y tomar bebidas alcohólicas. En casos de reservas, se podrá separar la Sala de Cine, máximo hasta con un mes de anticipación. Y cada propietario podrá hacer uso de la misma de acuerdo al orden de solicitud en el cuaderno de recepción.
+e)	El aforo máximo de la Sala de Cine es de 21 personas.
+f)	El uso de la Sala de Cine sólo se realizará a través de la inscripción en el área de recepción, en donde se verificará que el propietario esté habilitado para usar las áreas comunes y/o no tenga deudas por concepto de mantenimiento y/o multas.
+
+La Administración 
+Manual Del Uso De Las Áreas Comunes Manual De Uso De Lavandería
+Lavandería: Está compuesta por 6 equipos de lavadora y 8 equipos desecadora.
+a)	El horario para el uso de la lavandería es el siguiente: Lunes a Domingos de 08:00am hasta las 09:00 pm
+b)	Para poder hacer uso efectivo de la lavandería, el propietario se registrará en recepción, donde se verificará que el propietario esté habilitado para usar áreas comunes y/o no tenga deudas por concepto de mantenimiento y/o multas.
+c)	El propietario y/o inquilino es responsable de sus prendas. Deberá estar atento a la hora que termina el ciclo de lavado o secado. El conserje solo verificará la cantidad de lavadoras o secadoras a utilizar y el tipo de detergente. Solo se aceptará detergente líquido.
+d)	Así mismo el pago de lavandería se realizará de acuerdo a la cantidad de equipos a utilizar (lavadora y/o secadora).
+e)	Los propietarios que no realicen el pago por utilizar el área de lavadoras y/o secadoras serán sancionados
+f)	El ciclo de lavado es de Una Hora (6 min) y Ciclo de la Secadora es de Dos Horas (120 Minutos).
+g)	El Costo de cada Ciclo de Lavado es de 5 Soles y Costo del Ciclo de Secado es de 5 soles.
+Importante: Estimado propietario y/o inquilino esta terminantemente prohibido pagar en efectivo cualquier empleado de DIAR
+
+La Administración 
+Manual Del Uso De Las Áreas Comunes Manual De Uso Sala Coworking
+Coworking: Está compuesta por 2 mesas 8 sillas para ser utilizadas como un área de estudio de libre acceso para todo propietario.
+a)	El horario para el uso del coworking es Lunes a Domingo 24 horas.
+b)	El uso del área de coworking sólo se realizará a través de la inscripción en el área de recepción, en donde se verificará que el propietario esté habilitado para usar las áreas comunes y/o no tenga deudas por concepto de mantenimiento y/o multas.
+c)	El orden es por llegada, previa inscripción en Recepción.
+
+
+
+La Administración 
+MANUALES DE USO DE LAS ÁREAS COMUNES DE LA TORRE B
+MANUAL DE USO DEL ÁREA DE PARRILLAS
+a)	El Área de Parrillas está compuesta por cuatro (04) ambientes de parrillas separadas, en los cuales hay un área techada una (01) parrilla, un (01) extractor de humo, síes (06) sillas, un (01) mesón, dos (02) tablas de madera, kitchenette, dos (02) velas, tres (03) plantas. Dicha área se encuentra ubicada en la azotea de la Torre B.
+b)	El aforo máximo de cada ambiente de parrillas separadas es de 25 personas.
+c)	Esta área solo podrá ser utilizada mediante reserva.
+d)	El horario para el uso de las parrillas es de lunes a domingo de 10 am a 12 am. Antes de utilizar el área de parrillas se realizará una inspección visual en compañía del supervisor o un conserje, se firmará un Acta de Conformidad donde el usuario podrá indicar eventuales imperfecciones y observaciones que tenga el área antes de su uso.
+e)	El Área de parrillas tendrá un costo de reserva y utilización de S/100.00 (cien con 00/100 soles), monto que será utilizado como fondo para mantener y mejorar las instalaciones. La reserva se realizará en la web, en donde se verificará que el propietario esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De tenerlas o estar inhabilitado no podrá utilizar el área de parrilla. Dicho monto será abonado el mismo día de la reserva. La limpieza está incluida en el pago.
+f)	Adicionalmente, el residente que desee utilizar el Área de parrillas deberá depositar a la cuenta destinada para ello, un fondo de garantía de S/200.00 (doscientos con 00/100 soles). Este importe será devuelto después de verificar que el salón se encuentre en iguales condiciones a como se entregó. De haberse producido daños, se descontará el costo de la reparación o reposición de mobiliario del fondo de garantía. Si el monto no llegase a cubrir el daño ocasionado, la diferencia será cargada dentro de la cuota de mantenimiento del propietario que reservó el espacio. La devolución de los montos de garantía se realizará en un plazo máximo de 3 días calendarios; de caer sábado o domingo se realizará al siguiente día hábil. El monto de la garantía será abonado el mismo día de la reserva.
+g)	La reserva podrá ser anulada sin costo alguno si se solicitara 2 semana antes de la fecha de reserva. Si la reserva fuera anulada con 1 semana de anticipación serán descontados S/50.00 (cincuenta con 00/100 soles), mientras serán descontados s/100.00 (cien con 00/100 soles) cuando se cancela hasta 24 horas antes o el mismo día de la reserva.
+h)	La reserva podrá ser realizada máximo hasta con dos (02) meses de anticipación.
+i)	Una vez realizado el depósito, se deberá remitir un correo con la foto del voucher a las siguientes direcciones: juntadirectivasmart@gmail.com y administracionsmart@diargestion.com.
+j)	El propietario y el inquilino son solidariamente responsables por el cuidado de los equipos y ambientes comunes utilizados por él y sus familiares y/o visitantes.
+k)	No está permitido el exceso de alcohol en dicha área.
+l)	La eventual instalación de equipos de sonido en esta zona estará permitida, pero su consecuente uso no deberá superar el límite de decibeles permitidos en el resto del edificio según el horario.
+m)	La zona de parrillas es la única zona donde se encuentra permitida la preparación de alimentos. No se utilizarán otros medios de preparación que no sean mediante el uso de las parrillas.
+n)	Los residentes no podrán solicitar el apoyo de los trabajadores del Condominio para tareas particulares por el uso de las parrillas en su horario de trabajo.
+o)	En caso de excesos (peleas, actos contra el pudor, faltas y/o delitos) debidamente acreditados, el propietario quedará inhabilitado de volver a usar el área de parrillas por el plazo de un año, desde la notificación al propietario de la suspensión. Sin perjuicio de la respectiva multa que le corresponda.
+p)	Para ingresar a esta área es necesario contar con la vacunación completa. Esta regla solo se aplica a mayores de edad.
+
+La Administración
+MANUAL DE USO DEL GIMNASIO
+a)	El aforo máximo de esta Sala es de 10 personas.
+b)	No hay reserva de este espacio. Por lo que se permitirá el ingreso según orden de llegada y respetando el aforo máximo permitido.
+c)	La inscripción para el uso del gimnasio está condicionada a que el propietario/inquilino esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De tenerlas o estar inhabilitado no podrá utilizar esta área.
+d)	El horario de uso de esta Sala será de lunes a domingo de 05:00 am a 12:00 am.
+e)	Para ingresar a esta Sala el propietario/inquilino deberá registrarse previamente en recepción presencialmente o a través del intercomunicador. El conserje verificará que el propietario/inquilino esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De tenerlas o estar inhabilitado no podrá utilizar el gimnasio.
+f)	El gimnasio solo puede ser utilizado por residentes. Son ellos los responsables de cualquier daño que ocurra en su permanencia en las instalaciones.
+g)	Si algún residente decide tomar los servicios de un entrenador deberá registrar en la recepción el nombre de este, así́ como los días que ingresará.
+h)	Cada residente podrá utilizar el gimnasio un máximo de 1 turno diario, el tiempo máximo de uso por cada turno no será mayor a 2 horas.
+i)	El vestuario a utilizar deberá ser deportivo.
+j)	Cada residente que use el gimnasio deberá de llevar obligatoriamente una toalla y colocarla en cada aparato o máquina que ocupe.
+k)	Se encuentra prohibido ingresar con aparatos de música sin audífonos para evitar causar molestias entre los demás usuarios.
+l)	Está prohibido el ingreso de niños menores de 14 años.
+m)	Se encuentra prohibida la ingesta de alimentos en estas instalaciones. Sólo se permite el ingreso de agua o bebidas hidratantes no alcohólicas.
+n)	Asimismo, es obligación del propietario/inquilino dejar limpia el área utilizada y en el estado en que fue encontrado. 
+o)	En caso de daños ocasionados al gimnasio por un inadecuado uso de las instalaciones y equipos, el propietario deberá asumir la reparación del daño ocasionado en un lapso máximo de 15 días. De no hacerlo, será cobrado de la cuota de manteniendo mensual.
+p)	En caso de excesos (peleas, actos contra el pudor, faltas y/o delitos) debidamente acreditados,  el  propietario  quedará inhabilitado de  volver a  usar esta  área por  el plazo de un año, desde la notificación al propietario de la suspensión. Sin perjuicio de la respectiva multa que le corresponda.
+q)	Para ingresar a esta área es necesario contar con la vacunación completa. Esta regla solo se aplica a mayores de edad.
+r)	El uso de la mascarilla no es obligatorio.
+
+La Administración
+MANUAL DE USO DE LA SALA DE INFANTES
+a)	La Sala de Infantes está compuesta por dos espacios, una zona de juegos techada y una zona abierta de loza y gras.
+b)	No hay reserva de este espacio. Por lo que se permitirá el ingreso según orden de llegada y hasta que la sala esté llena. El aforo máximo de la Sala es de 20 personas.
+c)	El horario de uso de esta Sala será de lunes a domingos de 8:00 am a 9:00 pm.
+d)	Para ingresar a esta Sala el propietario/inquilino deberá registrarse previamente en recepción presencialmente o a través del intercomunicador. El conserje verificará que el propietario/inquilino esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De tenerlas o estar inhabilitado no podrá utilizar esta Sala.
+e)	Antes de utilizar la Sala se realizará una inspección visual en compañía de un conserje y se firmará el Acta de Conformidad donde el usuario podrá indicar eventuales imperfecciones y observaciones que tenga el área antes de su uso.
+f)	La edad mínima para el ingreso de un niño es de 1 día de nacido y la máxima es de 6 años, y siempre en compañía de un adulto o nana.
+g)	No se podrá comer, beber, ni fumar en este espacio.
+h)	El mantenimiento de esta Sala estará incluido dentro de la cuota ordinaria de mantenimiento.
+i)	Es obligación del residente dejar ordenada el área utilizada y en el estado que fue encontrado.
+j)	En caso de daño o deterioro de algún elemento de la Sala, el propietario/inquilino tendrá que hacerse cargo de la reparación o reposición en un lapso máximo de 15 días. De no hacerlo, será cobrado de la cuota de manteniendo mensual.
+k)	Para evitar malos olores en la Sala, los pañales que necesiten ser cambiados con urgencia, serán cambiados en el baño y tendrán que ser desechados en el departamento del residente. 
+l)	En caso de excesos (peleas, actos contra el pudor, faltas y/o delitos) debidamente acreditados,  el  propietario  quedará  inhabilitado  de  volver  a  usar esta área por el plazo de un año, desde la notificación al propietario de la suspensión. Sin perjuiciode la respectiva multa que le corresponda.
+m)	Para ingresar a esta área es necesario contar con la vacunación completa. Estaregla solo se aplica a mayores de edad.
+
+La Administración	 
+Manual Del Uso De Las Áreas Comunes
+MANUAL DE USO DE LA GOURMET
+a)	La Sala de Gourmet está compuesta por el área techada que contiene el mesón Negro, 02 Maseta ( Oreja de Elefante), 01 Maseta, 05 Adornos Blancos, 01 Bandeja Negra, 01 Mantel Gris, 01 Jarra Negra, 01 Adorno Negro, 02 Copas, 01 Taza de Vidrio, 02 Luminarias Decorativas, 01 Repisa de 05 Peldaños, 10 Adornos que se encuentra en la repisa, 04 Libros Imagina, 04 Macetas Esféricas, 05 Repisas de Cocina, Repisa de Cocina con 05 Macetas pequeñas, Set de Bar ( Hielera, Coctelera, Envase en Acero Inoxidable y Bandeja Inoxidable), 02 Jarrones Decorativos, 01 Bandeja de Madera, 01 Tabla de Queso, 02 Copas, 01 Tabla de Madera Rectangular, 01 tabla de Madera Redonda, 01 plato de madera redondo, 01 mantel, Set de Condimentos (08 envases de Vidrio y 02 Jarras de Vidrio), 06 Sillas negras, 01 Microondas, 01 Tope de cocina de vidrio, 01 Aire Acondicionado 36.000 BTU.
+b)	El uso de la sala gourmet tiene un costo siguiente S/ 50 soles por concepto de limpieza, S/ 50 soles por concepto de uso y S/ 200 soles por concepto de garantía. En total de la reserva es de S/ 300 soles.
+c)	Se precisa que el uso de esta sala es Gourmet, no está habilitada o preparada para realizar fiestas u otro tipo de eventos parecidos; es decir, es para uso Gourmet.
+d)	En casos de reservas, la Sala de Gourmet se podrá separar máximo hasta un mes de anticipación y con confirmación del abono de la reserva.
+e)	La Cantidad Máxima del Uso de la Sala Gourmet es de una vez al mes por Propietario o Inquilino.
+f)	En caso un Propietario / Inquilino haya excedido el uso máximo por mes y desee usar nuevamente la Sala Gourmet en una fecha determinada, podría utilizarlo si está disponible solo 48 horas antes puede realizar nuevamente la reservación del Área.
+g)	No estará permitido, las reservas, para los días festivos como son: fiestas patrias (27 y 28 de Julio), Navidad (24 y 25 de diciembre), Año Nuevo (31 de diciembre y 01 de enero).
+h)	El aforo máximo de la Sala es de 12 personas.
+i)	El horario para el uso de la Sala Gourmet es el siguiente: lunes a sábado 9:00 am hasta las 09:00 pm, el domingo de 09:00 am hasta 08:00 PM.
+j)	La Sala Gourmet podrá ser utilizada individualmente y/o compartida con otros propietarios/inquilinos y sus invitados; tomando en cuenta que se deberá pasar una lista de invitados previamente antes del uso del área el cual deberá entregar en la recepción.
+k)	Antes de utilizar la Sala de Gourmet se realizará una inspección visual en compañía de un conserje y se firmará un Acta de Conformidad donde el usuario podrá indicar eventuales imperfecciones y observaciones que tenga el área antes de su uso.
+l)	En caso de daños ocasionados a la Sala por un inadecuado uso de las instalaciones el propietario deberá asumir la reparación del daño ocasionado en un lapso máximo de 07 días calendario. De no hacerlo, será cobrado de la cuota de manteniendo mensual.
+m)	Solo se tomará en cuenta la reserva oficial al momento de su cancelación.
+n)	En caso una persona haya terminado su reserva antes de tiempo y quede disponibles horas hasta el cierre, otra persona puede hacer uso de las instalaciones, previa confirmación de DIAR. La nueva persona interesada deberá pagar el total de reserva, no está permitido pagar un prorrateo. Es posible solicitar la limpieza de la zona, sin embargo, será a disponibilidad del personal y/o a responsabilidad de la persona que quiera hacer uso de la misma.
+o)	La reserva podrá ser anulada sin costo alguno si se solicitara al menos 2 días antes de la fecha de reserva. Existe una penalidad de todo el costo por concepto de uso (S/ 50.00), si se anula dentro de las 48 horas antes del inicio del evento.
+p)	Una vez realizado el depósito, se deberá remitir un correo con la foto de dicho voucher a las siguientes direcciones: juntadirectivasmart@gmail.com y administracionsmart@diargestion.com. No se considerará reservado, hasta que haya una confirmación por escrito de DIAR. La reserva es por orden de envío del correo.
+q)	El propietario y el inquilino son solidariamente responsables por el cuidado de los equipos y ambientes comunes utilizados por él y sus familiares y/o visitantes.
+r)	El uso de reproductores de sonido portátiles en esta zona estará permitido, pero su consecuente uso no deberá superar el límite de decibeles permitidos en el resto del edificio según el Manual de Convivencia. Los Decibeles permitidos de día será 40.	 
+s)	Es responsabilidad del usuario verificar al inicio el buen estado de las instalaciones de la Sala, debiendo reportar a la administración cualquier dañopreviamente ocasionado por el usuario anterior.
+t)	En caso de excesos (peleas, actos contra el pudor, faltas y/o delitos) debidamente acreditados, el propietario quedará inhabilitado de volver a usar esta área por el plazo de un año, desde la notificación al propietario de la suspensión. Sin perjuicio de la respectiva multa que le corresponda.
+u)	No está permitido el exceso de alcohol en dicha área.
+v)	No se permite Mascotas.
+w)	Para ingresar a esta área es necesario contar con la vacunación completa.
+x)	No está Permitido Fumar (Vaporizador o Cigarros Electrónicos)
+y)	En caso de que el Propietario tenga alquilado su Departamento, el inquilino es el que podrá usar la Sala Gourmet y el propietario pierde el derecho a usarla, mientras hayaun inquilino al que se le cedió el beneficio.
+
+La Administración 	 
+Manual Del Uso De Las Áreas Comunes MANUAL DE USO ZONA DE JUEGOS
+a)	La Zona de Juegos está compuesta por el área techada que contiene : 03 Puff Color Gris, 02 Maceta de Fibra de Vidrio H: 40 Cm con planta natural, 02 Cuadros de Marco Negro de 85 cm x 65 cm, 06 Juegos de Mesas en Cajas, 03 Maceta Negra Pequeña H:12 cm + Planta Artificial, 03 Maceta Blanca Pequeña H:12 cm + Planta Artificial, 06 Macetas Negras con plantas Artificial, 02 Pelotas de Básquet # 07, 01 Aro de Básquet, 01 Canasta Cónica para pelotas, 03 Maquinas Pinballs, 01 alfombra Belga de 2.30 x 1.60, Mesa de Ice Hockey, Juego de Piezas ( Mesa Ice Hockey 03 Elementos), 01 televisor de 55” Marca Samsung y 02 Aire acondicionado de 18 BTu.
+b)	En casos de reservas, la Zona de Juego se podrá separar con un máximo de 24 horas antes.
+c)	Cada residente podrá utilizar la Zona de Juegos un máximo de 1 turno diario, el tiempo máximo de uso por cada turno no será mayor a 6 horas.
+d)	En caso que un Propietario / Inquilino haya excedido el uso máximo de 03 horas y desee usar nuevamente la Sala Juegos. Si está disponible puede nuevamente realizar la reservación del Área.
+e)	No estará permitido, las reservas, para los días festivos como son: fiestas patrias (27 y 28 de Julio), Navidad (24 y 25 de diciembre), Año Nuevo (31 de diciembre y 01 de enero)
+f)	El aforo máximo de la Sala es de 20 personas en caso se realice la reserva respectiva. Se permite un máximo de 5 invitados por propietario, en caso no haya una reserva previa y esta se encuentre disponible, la cual será utilizada con un máximo de 03 horas.
+g)	El horario para el uso de la Sala es el siguiente: Lunes a sábado de 9:00 am a 10:00 pm.
+h)	Antes de utilizar la Zona de Juegos se realizará una inspección visual en compañía de un conserje y se firmará un Acta de Conformidad donde el usuario podrá indicar eventuales imperfecciones y observaciones que tenga el área antes de su uso.
+i)	En caso de daños ocasionados a la Zona de Juego por un inadecuado uso de las instalaciones el propietario deberá asumir la reparación del daño ocasionado en un lapso máximo de 15 días. De no hacerlo, será cobrado de la cuota de manteniendo mensual.
+j)	La Zona de Juego, se podrán separar por horas, en cuyo caso el precio de reserva será de S/ 200 (doscientos con 00/100 Soles) de los cuales S/100 cien soles son garantía y serán devueltos en luego de la reserva 48 horas.
+k)	La reserva podrá ser anulada sin costo alguno.
+l)	Una vez realizado el depósito, se deberá remitir un correo con la foto de dicho voucher a las siguientes direcciones: juntadirectivasmart@gmail.com y administracionsmart@diargestion.com.
+m)	El propietario y el inquilino son solidariamente responsables por el cuidado de los equipos y ambientes comunes utilizados por él y sus familiares y/o visitantes.
+n)	No está permitido equipos de sonido en esta Zona de Juegos.
+o)	Es responsabilidad del usuario verificar al inicio el buen estado de las instalaciones de la Sala, debiendo reportar a la administración cualquier daño previamente ocasionado por el usuario anterior.
+p)	En caso de excesos (peleas, actos contra el pudor, faltas y/o delitos) debidamente acreditados, el propietario quedará inhabilitado de volver a usar esta área por el plazo de un año, desde la notificación al propietario de la suspensión. Sin perjuicio de la respectiva multa que le corresponda.
+q)	No está permitido ingerir alcohol en Zona de Juegos.
+r)	No está permitido ingerir Alimentos en la Zona de Juegos.
+s)	No se permite Mascotas.
+t)	La Zona de Juegos es para Uso Exclusivo de Juegos
+u)	No está Permitido Fumar (Vaporizador o Cigarros Electrónicos)
+v)	En Caso que el Propietario tenga alquilado su Departamento, el inquilino es el que podrá usar la Zona de Juegos. El propietario cederá sus derechos de uso al inquilino y por lo tanto dicho propietario ya no tendrá derecho al uso.
+w)	Los niños menores 12 años podrán usar la Zona de Juegos acompañados de su Representante.
+x)	Para ingresar a esta área es necesario contar con la vacunación completa. Esta regla solo se aplica a mayores de edad.
+y)	Para ingresar a la Zona de Juegos el propietario / inquilino deberá registrarse previamente en recepción presencialmente o a través del intercomunicador. El conserje verificará que el propietario / inquilino esté habilitado para usar las áreas comunes y no tenga deudas por concepto de mantenimiento y/o multas. De tenerlas o estar inhabilitado no podrá utilizar la zona de Juegos.
+z)	En la Zona de Juegos Cuanta 01 Televisor de 55” Samsung, el cual se puede realizar instalaciones de consola de video Juegos (el propietario o inquilinos deberá traer la consola y sus cables de Instalación ya que solamente se encuentra el Televisor.)
+aa) El propietario / inquilino que haga uso del televisor que encuentra en la Zona de Juegos, se hace responsable de cualquier daño o desajuste del televisor).
+bb) En la zona de Juego no Posee el Servicio de WIFI.
+cc) Los juegos de mesa estarán custodiados por La Administración, el propietario puede solicitar los juegos y se hace responsable de cualquier daño del mismo.
+
+
+La Administración  
+COMUNICADO: USO DE BALCÓN y DUCTOS DE BASURA
+En esta oportunidad quisiera dirigirme a usted con mucho respeto. La intención de este comunicado es realizar una serie de sugerencias en los sucesos que vienen transcurriendo. Algunos vecinos han manifestado que en su patio y balcón de su departamento constantemente observa restos de cigarrillos, cenizas de cigarrillos, papeles, tasa de porcelanas y materos. Que se caído desde alguno de los pisos superiores.
+Por lo tanto, se sugiere, haciendo un llamado de conciencia y de respeto, a estar muy atento a la hora de estar en el área del Balcón con objetos que pueda descender a algunos de los pisos inferiores y causar algún daño y evitar accidentes graves.
+En el mismo orden de ideas al momento de consumir cigarrillos se recomienda colocar un cenicero o envase que realice la misma función y dejar en este todos los restos del cigarrillo evitando dejar caer desperdicios a los vecinos que están debajo de su departamento.
+Es importante recordar la excelente convivencia que se mantiene en el edificio entre propietarios e inquilinos por lo tanto es imprescindible mantenerlo.
+Me despido colocándome a la orden de usted. Saludos.
+
+La Administración	 
+Uso correcto de Apertura y Cierre.
+Puerta de la Cochera
+1. Al Entrar deberá esperar en la Rampa el cierre Total de la Puerta Cochera.
+2. Al Salir se deberá esperar en la vereda el cierre total de la puerta Cochera.
+3. Si al ingresar a la cochera se encuentra un vehículo atrás, el 2do vehículo esperará que comience a cerrar la Puerta de cochera y recién el 2do vehículo podrá activar su control remoto para que vuelva abrir la puerta.
+4. Si al salir del edificio existe otro vehículo detrás, este último deberá cerrar la puerta de la cochera.
+5. Las normas también son aplicadas para los vehículos menores (motos y bicicletas)
+6. Se recomienda que tanto los vehículos que entran y salen utilicen su respectivo carril para evitar accidentes.
+El no cumplir estas normas se aplicará lo establecido un cuadro de infracciones y sanciones, que forma parte del presente Manual de Convivencia.
+8.13 Dejar la puerta de cochera abierta. S/.100 Soles La Sanción
+
+La Administración
+EN CASO DE HABER DOS O MAS VEHÍCULOS PARA EL INGRESO A LACOCHERA
+Al momento de INGRESAR, si hay otro vehículo atrás, el que entra primero espera en la rampa y activa su control remoto para que cierre la puerta. El que está atrás espera que comience a cerrar.
+Vehículo 1
+Puerta de la cochera
+Vehículo 2
+El segundo deberá esperar que cierre la puerta un 40% y de ahí puede activar su control remoto para ingresar
+Vehículo 3
+Si hubiera un tercer vehículo, realizará el mismo procedimiento que el Vehículo 2
+
+Edificio construido por: Imagina
+Correo servicio al cliente inmobiliaria constructora del edificio, para garantía de departamentos, daños en la infraestructura etc: sac@imagina.pe
+Dirección del Edificio: Av. Tomas Marsano 368
+Distrito del Edificio: Surquillo
+Provincia del Edificio: Lima
+País del Edificio: Perú
+Cantidad de pisos: 21
+Cantidad de departamentos:
+Nombres y roles junta directiva:
+Presidente:
+Vice-Presidente:
+Secretario:
+Vice-Secretario:
+Tesorero:
+Vice-tesorero:
+
+Cuentas corrientes:
+Solo para pago de lavandería:
+Cuenta Corriente BCP: 1932655350016 / CCI: 00219300265535001611 / Titular de la Cuenta:
+Operaciones y Gestión Inmobiliaria DIAR SAC / RUC 20535530875.
+
+Solo para pago de cuota de mantenimiento:
+Cuenta Corriente BBVA: 0011 0939 01 00013431
+CCI: 011 939 000100013431 60
+Titular de la cuenta: Operación y Gestión Inmobiliaria DIAR SAC / RUC: 20535530875
+Enviar comprobante de pago a: administracionsmart@diargestion.com /
+facturacionsmart@diargestion.com
+PLAZOS DE PAGO: 10 DIAS CALENDARIO DE RECEPCIONADO EL DOCUMENTO
+
+Solo para pago de reserva de areas comunes:
+Abonar a la Cuenta Corriente BCP 193 9707876 0 51 / CCI 00219300970787605115
+Titular de la Cuenta Operaciones y Gestion Inmobiliaria DIAR SAC RUC 20535530875
+Correo junta directiva: juntadirectivasmart@gmail.com
+Nombre empresa administradora: DIAR
+Numero de teléfono recepción:  +51 01 492 4168
+Nombre del Administrador: Jorge Monsalve
+Numero del administrador: +51 938 745 860
+Correo para quejas administración: administracionsmart@diargestion.com
+Horario para botar la basura: 24/7
+
+Playlist para áreas comunes
+Sugerencias para residentes si preguntan por ejemplo qué escuchar en un área común, o para que los conserjes o administradores lo pongan en los parlantes del área comun. 
+Piscina: https://open.spotify.com/playlist/44XC5LTCiKkbvpMArOmt04?si=d350c1ff5ff24378
+Gimnasio: https://open.spotify.com/playlist/710mwRRzOUg7aX3NgD3B14?si=5557b7e7727a46d0
+Sala de Juegos Niños: https://open.spotify.com/playlist/3mqvtakKcpiFYVROUEFVS9?si=44dbf9692b56488f
+
+Numeros que puede solicitar el usuario
+Principales números de emergencia en Perú
+Atención médica en EsSalud:
+Para la mujer víctima de violencia y su entorno familiar: 014118000, opción 6.
+Información sobre coronavirus (COVID-19): 107
+Infosalud: 113
+Denuncia contra la violencia familiar y sexual: Línea 100
+Asistencia integral de la Defensoría del Pueblo: 0800-15-170
+Central policial: 105
+Policía de carreteras: 110
+Defensa Civil: 115
+Bomberos: 116
+Cruz Roja:01 266 0481
+Central única de denuncias del Ministerio del Interior: 1818
+Línea de hostigamiento y acoso sexual en el ámbito laboral: 1819
+La línea gratuita Aló SUTRÁN: 0-800-12345 en caso de vías inundadas
+Fiscalía especializada en violencia contra la mujer y los integrantes del grupo familiar: 0800-00-205
+Teléfonos de emergencia en Lima:
+Denuncia contra el pudor y el acoso sexual: (01) 427-2765 │ (01) 427-6904
+Escuadrón de emergencias: 482-8988
+División de la Policía de Tránsito: 323-4908 │ 324-8309
+División de Protección de carreteras: 431-6534
+División de Turismo y Ecología: 460-0921
+Robos de vehículos – Dirove: 01 328-0207 │ 01 328 0351
+División de Investigación Criminal: 980121221 │ 4317280
+UDE (Desactivación de explosivos): 481-2901 │ 481-5118
+Dirección contra el terrorismo: 980121123 │ 3328118
+Búsqueda de personas desaparecidas: (01) 204-8020, anexo 2921. │ 945-116605
+Secuestros y extorsiones: 424-9524
+División de la Policía Fiscal: 275-5368
+Unidad de Rescate: 711-6000 │ 431-3106
+Escuadrón verde de Lima: 939 372 777 │ 427-6904
+Comisaría de Mujeres: (01) 4281804
+Dirección de la trata de personas y tráfico ilícito de migrantes: 942098198 │ LINEA 114
+Serenazgo Lima: para información específica de cada distrito en Lima, puedes visitar la página www.gob.pe/547-telefonos-de-emergencia
+Sedapal: empresa encargada del suministro de agua potable y alcantarillado de la ciudad de Lima. Central Telefónica: (01) 317-8000
+Seguridad vecinal Lima y Callao:
+Lima 0-800-1-7000 (llamada gratuita)
+Callao (01) 429-2627
+Energía Eléctrica: Lima y Callao son atendidas por 2 empresas encargadas de resolver las emergencias de electricidad:
+Luz del Sur: (01) 617-5000
+Enel: (01) 517-1717
+
+Números de emergencia.
+Ambulancias en Lima:
+Alerta Médica: 01 416 6777
+Clave Médica: 01 265 8783
+Sistema de Atención Médica Móvil de Urgencia (SAMU): 106
+Ambulancias de EsSalud en Lima: 117
+
+Categorías de Segregación y Preguntas Frecuentes
+1. PLÁSTICO
+¿Qué va en la categoría de plástico?
+Botellas de plástico (de agua, refrescos, etc.)
+Envases de productos de limpieza
+Bolsas de plástico
+Envases de yogurt y otros lácteos
+Tapas de plástico
+Envoltorios de plástico
+Recipientes de plástico para alimentos
+Preguntas frecuentes sobre plásticos:
+¿Debo lavar los envases de plástico antes de desecharlos? R: Sí, es recomendable enjuagarlos ligeramente para eliminar restos de comida o líquidos.
+¿Qué hago con las bolsas de plástico? R: Las bolsas de plástico van en la categoría de plástico. Intenta reutilizarlas antes de desecharlas.
+
+2. VIDRIO
+¿Qué va en la categoría de vidrio?
+Botellas de vidrio (de bebidas, aceite, etc.)
+Frascos de vidrio
+Tarros de vidrio
+Laminas de vidrio
+Preguntas frecuentes sobre vidrio:
+¿Debo quitar las etiquetas de las botellas de vidrio? R: No es necesario, pero si es fácil quitarlas, mejor.
+¿Puedo depositar vasos rotos o cerámica en el contenedor de vidrio? R: No, solo botellas y envases de vidrio. La cerámica y los vasos rotos van con los residuos generales.
+
+3. PAPEL Y CARTÓN
+¿Qué va en la categoría de papel y cartón?
+Periódicos y revistas
+Cajas de cartón
+Papel de oficina
+Sobres
+Folletos y catálogos
+Cartones de huevos
+Preguntas frecuentes sobre papel y cartón:
+¿Puedo reciclar papel manchado con comida? R: No, el papel muy manchado con comida (como servilletas usadas) no se recicla.
+¿Debo quitar grapas y clips del papel? R: Es preferible quitarlos, pero no es estrictamente necesario.
+
+4. METALES
+¿Qué va en la categoría de metales?
+Latas de bebidas
+Latas de conservas
+Papel de aluminio
+Tapas metálicas de botellas
+Envases metálicos de alimentos
+Clavos
+Hoja lata
+Fierro
+Plomo
+Aluminio
+Preguntas frecuentes sobre metales:
+¿Debo aplastar las latas antes de reciclarlas? R: No es necesario, pero puede ayudar a ahorrar espacio en el contenedor.
+¿Puedo reciclar aerosoles en la categoría de metales? R: Sí, siempre que estén completamente vacíos.
+
+5. TETRAPACK
+¿Qué va en la categoría de Tetrapack?
+Envases de leche
+Envases de jugos
+Envases de crema
+Cualquier envase de cartón con capa de aluminio en su interior
+Preguntas frecuentes sobre Tetrapack:
+¿Debo lavar los envases Tetrapack antes de reciclarlos? R: Es recomendable enjuagarlos ligeramente y aplastarlos para ahorrar espacio.
+¿Por qué se separan los Tetrapack de los demás cartones? R: Porque tienen una composición mixta (cartón, plástico y aluminio) que requiere un proceso de reciclaje diferente.
+Preguntas Generales
+¿Qué hago con los residuos que no entran en estas categorías? R: Los residuos que no entran en estas categorías, como restos de comida, pañales, o artículos de higiene personal, van en el contenedor de residuos generales.
+¿Cómo puedo reducir mis residuos? R: Usa bolsas reutilizables, evita productos con exceso de embalaje, opta por productos a granel, reutiliza envases cuando sea posible, y repara objetos en lugar de desecharlos.
+¿Qué hago con residuos peligrosos como pilas o medicamentos? R: Estos deben llevarse a puntos de recogida especiales. Las pilas a contenedores específicos y los medicamentos a las farmacias.
+¿Dónde puedo obtener más información sobre el reciclaje en nuestro edificio? R: Puedes consultar en el app de domus donde encontrarás los últimos reportes de reciclaje si ya estás reciclando con nosotros. Recuerda que puedes pagar la suscripción al app simplemente reciclando.
+¿Que segregamos en el futuro que no segregamos ahora? R: Technopor, aceites, residuos organicos, madera, RAE, baterias, pilas, dispositivos electrónicos, pinturas, ropa
+
+Categorías de Plásticos Reciclables
+1. Plástico PET (1)
+Identificación: Símbolo de reciclaje con el número 1 o las letras PET
+Ejemplos:
+Envases de agua
+Botellas de gaseosas
+Botellas de rehidratantes
+Botellas de aceite
+Botellas de vinagre
+Envases de enjuagues bucales (como Listerine)
+Envases de limpiadores (marca Poet)
+Envases de lavavajilla líquido (marca Ayudín)
+Bandejas de plástico
+2. Plástico Duro HDPE (2)
+Identificación: Símbolo de reciclaje con el número 2 o las letras HDPE
+Ejemplos:
+Envases de yogurt
+Botellas de shampoo
+Botellas de acondicionador
+Envases de mantequilla
+Galoneras
+Baldes
+Contenedores de plástico duro
+3. Plástico Film LDPE (4)
+Identificación: Símbolo de reciclaje con el número 4 o las letras LDPE
+Ejemplos:
+Empaques plásticos de papel higiénico
+Empaques de comida para mascotas
+Bolsas de arroz
+Bolsas de azúcar
+Empaques de menestras
+Plástico envolvente de six pack de cervezas
+Plástico para embalaje
+4. Polipropileno PP (5)
+Identificación: Símbolo de reciclaje con el número 5 o las letras PP
+Ejemplos:
+Tapas de botellas
+Tapas de galoneras
+Sillas de plástico
+Mesas de plástico
+
+Residuos especiales
+Todo material punzocortante, como agujas y sierras, debe ser desechado en un recipiente rígido adecuado. Los residuos sólidos generados por actividades asistenciales representan un riesgo significativo para la salud, ya que, en situaciones no deseadas, la carga microbiana contenida en residuos biocontaminados puede ingresar al organismo humano. Del mismo modo, los residuos especiales pueden afectar la salud si son inhalados, ingeridos o si entran en contacto con la piel.
+Estos residuos asistenciales incluyen tanto residuos comunes como una menor proporción de residuos peligrosos, que pueden ser biocontaminados o especiales. El peligro que 
+
+Datos aliados externos:
+Sobre la siguiente lista siempre responderás recomendandolos, indicando que han sido anteriormente recomendados por otros vecinos.
+Mudanza - Cobox logistics: +51 965 471 658
+Decoraciones para fiestas, organización de eventos, catering para fiestas, shows para fiestas, toldos, mesas para fiestas, juegos inflables, recomienda El Wall De Dome - +51 954 708 562
+Si alguien necesita un pintor: Peter Huamanñahui - Arcosan: +51 972 721 048; Miguel Vidal  - +51 921 617 356.
+
+Datos aliados internos:
+Sobre la siguiente lista siempre responderás recomendandolos solo y exclusivamente si la consulta contiene el objeto de venta o alquiler y diciendo que viven en el edificio, luego recomiendas a los aliados externos.
+Sra. Leonor - Vende Palta: +51 996 133 285
+Sr. Renzo - Vende aires acondicionados: +51 993 514 932
+Sra. Lilian - Alquiler de Sillas de plástico: +51 997 536 668
+
+Todas estas informaciones son para preguntas relacionadas a la municipalidad de Surquillo:
+Central Telefónica: (01) 241 0413	
+Serenazgo: (01)5102222	
+Aló Rentas: (01) 748 3838	
+Bomberos: 116	
+Consulta tus tributos: WhatApp +51 012410413
+Mesa Partes Virtual: (01) 241 0413 Anexo 117 o https://virtual.munisurquillo.gob.pe/inicio
+Seguimiento de trámites: https://www.munisurquillo.gob.pe/nuevoportal/#/consultas
+Libro de reclamaciones: https://reclamos.servicios.gob.pe/?institution_id=150
+Trabaja con Nosotros: https://www.munisurquillo.gob.pe/nuevoportal/#/procesos-cas
+Buzón de sugerencias: No existe
+Consultar información de transparencia: https://www.gob.pe/7379-consultar-informacion-de-transparencia?child=60508
+Solicitar constancia de no adeudo: https://www.gob.pe/22070-solicitar-constancia-de-no-adeudo-por-deuda-tributaria-en-la-municipalidad?child=22908
+Obtener certificado de numeración para tu propiedad: https://www.gob.pe/22061-obtener-certificado-de-numeracion-para-tu-propiedad?child=17223
+Consultar estado de trámite: https://www.gob.pe/23649-consultar-estado-de-tramite?child=27624
+Normas y documentos legales:	https://www.gob.pe/institucion/munisurquillo/normas-legales
+Compendios de Normas y documentos legales: https://www.gob.pe/institucion/munisurquillo/colecciones/normas
+Acuerdo de consejo: https://www.gob.pe/institucion/munisurquillo/normas-legales/tipos/108-acuerdo-de-concejo
+Convenio: https://www.gob.pe/institucion/munisurquillo/normas-legales/tipos/25-convenio
+Decreto de alcaldía: https://www.gob.pe/institucion/munisurquillo/normas-legales/tipos/96-decreto-de-alcaldia
+Directiva: https://www.gob.pe/institucion/munisurquillo/normas-legales/tipos/28-directiva
+Tipos de normas y documentos legales: https://www.gob.pe/institucion/munisurquillo/normas-legales/tipos
+Informes y publicaciones: https://www.gob.pe/institucion/munisurquillo/informes-publicaciones
+Compendios de informes y publicaciones: https://www.gob.pe/institucion/munisurquillo/colecciones/informes-publicaciones
+Tipos de informes y publicaciones: https://www.gob.pe/institucion/munisurquillo/informes-publicaciones/tipos
+Directoria completo: https://www.gob.pe/institucion/munisurquillo/funcionarios
+Sedes: https://www.gob.pe/institucion/munisurquillo/sedes

@@ -5,16 +5,18 @@ import { CombinedMemory, ConversationTokenBufferMemory, VectorStoreRetrieverMemo
 import { MongoDBAtlasVectorSearch } from "@langchain/mongodb";
 import { PromptTemplate } from "@langchain/core/prompts";
 import { MongoClient } from "mongodb";
+import { ChatGoogleGenerativeAI } from "@langchain/google-genai";
 
 @Injectable()
 export class ChatService {
 
   
   private readonly chatOpenAI: ChatOpenAI;
+  private readonly chatGeminiAI: ChatGoogleGenerativeAI;
 
   // Conversation normal
-  private readonly basicMemory: ConversationTokenBufferMemory
-  private readonly chainBasic: ConversationChain;
+  private readonly userMemories: Map<string, ConversationTokenBufferMemory> = new Map();
+  public readonly chainBasic: ConversationChain;
 
   // Conversation Embeddings 
   private readonly openAIEmbeddings: OpenAIEmbeddings;
@@ -31,17 +33,12 @@ export class ChatService {
       modelName: "gpt-4o-mini",
     });
 
-    this.basicMemory = new ConversationTokenBufferMemory({
-      llm: this.chatOpenAI,
-    });
-
-    this.chainBasic = new ConversationChain({
-      llm: this.chatOpenAI,
-      memory: this.basicMemory,
-    });
+    this.chatGeminiAI = new ChatGoogleGenerativeAI({
+      apiKey: process.env.GOOGLE_API_KEY,
+      model: "gemini-2.0-flash-lite",
+    })
 
     // Conversation Embeddings
-
     this.openAIEmbeddings = new OpenAIEmbeddings({
       openAIApiKey: process.env.OPENAI_API_KEY,
       modelName: "text-embedding-ada-002",
@@ -68,16 +65,29 @@ export class ChatService {
     );
 
     const prompt = PromptTemplate.fromTemplate(`
-      The following is a conversation between a human and an AI. The AI has access to previous interactions and relevant documents.
+      La siguiente es una conversación entre un humano y una IA. La IA tiene acceso a interacciones previas y documentos relevantes.
 
-      Current conversation:
+      Conversación Actual:
       {chat_history}
       
-      Relevant information:
+      Información relevante:
       {vector_history}
       
-      Human: {input}
-      AI:`);
+      Pregunta Actual del Usuario:
+      {input}
+      
+      Contexto:
+      Eres un agente de IA en la app de WhatsApp
+
+      Ambiente:
+      Te encuentras dentro de la aplicación de WhatsApp, donde los usuarios pueden interactuar contigo.
+      Osea que ellos te escriben por WhatsApp y tu les estas respondiendo por el mismo medio
+      
+      Objetivo:
+      Tu objetivo es ayudar a los usuarios a encontrar información relevante y responder a sus preguntas de manera efectiva.
+      Usa Emojis y un tono amigable, pero mantén la formalidad.
+      Que tus respuestas sean breves, concisas y naturales, que parezcas humanas y no de IA.
+    `);
 
     const conversationMemory = new ConversationTokenBufferMemory({
       llm: this.chatOpenAI,
@@ -107,9 +117,43 @@ export class ChatService {
     });
   }
 
+  getUserMemory(sessionId: string): ConversationTokenBufferMemory {
+    if (!this.userMemories.has(sessionId)) {
+      this.userMemories.set(sessionId, new ConversationTokenBufferMemory({
+        llm: this.chatGeminiAI,
+      }));
+    }
+    return this.userMemories.get(sessionId);
+  }
+
   // Conversation normal
-  async handleBasicConversation(input: string): Promise<string> {
-    const result = await this.chainBasic.call({ input });
+  async handleBasicConversation(input: string, sessionId: string): Promise<string> {
+
+    const prompt = PromptTemplate.fromTemplate(`
+      La siguiente es una conversación entre un humano y una IA. La IA tiene acceso a interacciones previas y documentos relevantes.
+
+      Pregunta Actual del Usuario:
+      {input}
+      
+      Contexto:
+      Eres un agente de IA en la app de WhatsApp
+
+      Ambiente:
+      Te encuentras dentro de la aplicación de WhatsApp, donde los usuarios pueden interactuar contigo.
+      Osea que ellos te escriben por WhatsApp y tu les estas respondiendo por el mismo medio
+      
+      Objetivo:
+      Tu objetivo es ayudar a los usuarios a encontrar información relevante y responder a sus preguntas de manera efectiva.
+      Usa Emojis y un tono amigable, pero mantén la formalidad.
+      Que tus respuestas sean breves, concisas y naturales, que parezcas humanas y no de IA.
+    `)
+    const memory = this.getUserMemory(sessionId);
+    const chain = new ConversationChain({
+      llm: this.chatGeminiAI,
+      memory: memory,
+      prompt: prompt
+    });
+    const result = await chain.call({ input: input });
     return result.response;
   }
 

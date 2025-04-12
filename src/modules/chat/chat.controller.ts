@@ -6,8 +6,8 @@ export class ChatController {
   constructor(private readonly chatService: ChatService) {}
 
   @Post("handle-basic-conversation")
-  async handleBasicConversation(@Body("message") message: string): Promise<string> {
-    const response = await this.chatService.handleBasicConversation(message);
+  async handleBasicConversation(@Body() data: {message: string, sessionId: string}) {
+    const response = await this.chatService.handleBasicConversation(data.message, data.sessionId);
     return response;
   }
 
