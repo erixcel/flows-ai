@@ -9,7 +9,7 @@ import { CreateIndexSpec } from '@pinecone-database/pinecone/dist/control';
 export class EmbeddingService {
   private readonly embedding: OpenAIEmbeddings;
   private readonly picone: Pinecone;
-  private mongo: MongoClient;
+  private readonly mongo: MongoClient;
 
   constructor() {
     this.embedding = new OpenAIEmbeddings({
