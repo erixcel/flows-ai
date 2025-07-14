@@ -5,7 +5,7 @@ import { FileInterceptor } from "@nestjs/platform-express";
 
 @Controller("embedding")
 export class EmbeddingController {
-  constructor(private readonly embeddingService: EmbeddingService) {}
+  constructor(private embeddingService: EmbeddingService) {}
 
   @Post('upload-domus-document')
   @UseInterceptors(FileInterceptor('file'))

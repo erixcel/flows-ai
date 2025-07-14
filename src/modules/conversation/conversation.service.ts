@@ -14,15 +14,15 @@ import { BaseMessage } from "@langchain/core/messages";
 export class ConversationService {
 
   // Memories
-  private readonly normalMemories: Map<string, ConversationTokenBufferMemory> = new Map();
-  private readonly vectorMemories: Map<string, CombinedMemory> = new Map();
+  private normalMemories: Map<string, ConversationTokenBufferMemory> = new Map();
+  private vectorMemories: Map<string, CombinedMemory> = new Map();
 
   // Conversation Embeddings 
-  private readonly openAIEmbeddings: OpenAIEmbeddings;
-  private readonly vectorSearchMongo: MongoDBAtlasVectorSearch;
+  private openAIEmbeddings: OpenAIEmbeddings;
+  private vectorSearchMongo: MongoDBAtlasVectorSearch;
 
   constructor(
-    private readonly clientService: ClientService,
+    private clientService: ClientService,
   ) {
 
     const index = "index_documents";

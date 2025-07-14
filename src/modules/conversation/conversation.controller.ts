@@ -6,7 +6,7 @@ import { BaseMessage } from "@langchain/core/messages";
 
 @Controller("conversation")
 export class ConversationController {
-  constructor(private readonly conversationService: ConversationService) {}
+  constructor(private  conversationService: ConversationService) {}
 
   @Post("handle-basic-conversation")
   async handleBasicConversation(@Body() data: {

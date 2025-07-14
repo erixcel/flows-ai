@@ -11,7 +11,7 @@ export class SchemaService {
 
 
   constructor(
-    private readonly clientService: ClientService,
+    private clientService: ClientService,
   ) {}
 
   async getObjectFromMessages(
@@ -32,7 +32,7 @@ export class SchemaService {
     model: LlmModel
   ) {
     const parser = StructuredOutputParser.fromZodSchema(schema);
-    const prompt_base = this.getPromptBaseInput();
+    const prompt_base = this.getPromptBaseConveration();
     
     const prompt = new PromptTemplate({
       template: prompt_base + instruction,
