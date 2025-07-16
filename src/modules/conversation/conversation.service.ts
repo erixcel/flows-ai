@@ -7,7 +7,7 @@ import { PromptTemplate } from "@langchain/core/prompts";
 import { LlmModel } from "../client/dto/client.dto";
 import { ClientService } from "../client/client.service";
 import { traceable } from "langsmith/traceable";
-import { createReactAgent } from "@langchain/langgraph/prebuilt";
+import { createReactAgent, ToolNode } from "@langchain/langgraph/prebuilt";
 import { BaseMessage } from "@langchain/core/messages";
 
 @Injectable()
@@ -117,18 +117,20 @@ export class ConversationService {
     session_id: string,
     model: LlmModel,
     agent_name: string,
-    base_messages: BaseMessage[]
+    base_messages: BaseMessage[],
+    tools?: ToolNode,
   }): Promise<string> {
 
     const llm = this.clientService.getLlm(data.model);
-    const agent = createReactAgent({ llm: llm, tools: []});
+    const agent = createReactAgent({ llm: llm, tools: data.tools ?? []});
 
     const result = await traceable(
       async () => agent.invoke({messages: data.base_messages}),
       { 
         name: data.agent_name, 
         project_name: this.clientService.getLangSmithProject(), 
-        metadata: { session_id: data.session_id } },
+        metadata: { session_id: data.session_id } 
+      },
     )();
 
     const lastIndex = result.messages.length - 1;
@@ -160,7 +162,8 @@ export class ConversationService {
       { 
         name: data.agent_name, 
         project_name: this.clientService.getLangSmithProject(), 
-        metadata: { session_id: data.session_id } },
+        metadata: { session_id: data.session_id } 
+      },
     )();
 
     return result.response;
@@ -189,7 +192,8 @@ export class ConversationService {
       { 
         name: data.agent_name, 
         project_name: this.clientService.getLangSmithProject(), 
-        metadata: { session_id: data.session_id } },
+        metadata: { session_id: data.session_id } 
+      },
     )();
 
     return result.response;

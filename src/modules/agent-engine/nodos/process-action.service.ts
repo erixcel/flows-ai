@@ -1,11 +1,10 @@
 import { Injectable } from "@nestjs/common";
-import { NodePayload, NodeResponse, stateDefinition } from "../dto/agent";
+import { Context } from "../dto/agent";
 
 @Injectable()
 export class ProcessActionService {
 
-    async process(nodePayload: NodePayload): Promise<typeof stateDefinition.State> {
-        const nodeResponse: NodeResponse = new NodeResponse();
-        return { payload: nodePayload, result: nodeResponse };
+    async process(context: Context): Promise<Context> {
+        return { payload: context.payload, result: context.result };
     }
 }

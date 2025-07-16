@@ -3,7 +3,7 @@ import { Bot, BotProvider, Chat, Message, User } from "./tables";
 import { Template } from "./templates";
 import { MessageType, ProviderType } from "./type";
 
-export const stateDefinition = Annotation.Root({
+export const contextDefinition = Annotation.Root({
   payload: Annotation<NodePayload>({
     reducer: (_prev, next) => next,
     default: () => ({
@@ -17,13 +17,18 @@ export const stateDefinition = Annotation.Root({
   }),
   result: Annotation<NodeResponse>({
     reducer: (_prev, next) => next,
-    default: () => ({ status: false, templates: [] }),
+    default: () => ({ 
+      status: undefined as unknown as boolean, 
+      templates: undefined as unknown as Template[],
+    }),
   }),
 });
 
+export type Context = typeof contextDefinition.State;
+
 export class NodeResponse {
-  status: boolean = false;
-  templates?: Template[] = [];
+  status: boolean = true;
+  templates: Template[] = [];
 }
 
 export class NodePayload {

@@ -1,0 +1,29 @@
+%%{init: {'flowchart': {'curve': 'linear'}}}%%
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	processBot(processBot)
+	processUser(processUser)
+	processChat(processChat)
+	processMessages(processMessages)
+	processAugment(processAugment)
+	processAction(processAction)
+	processResponse(processResponse)
+	processSend(processSend)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> processBot;
+	processAction --> processResponse;
+	processResponse --> processSend;
+	processSend --> __end__;
+	processBot -. &nbsp;success&nbsp; .-> processUser;
+	processBot -. &nbsp;failure&nbsp; .-> processResponse;
+	processUser -. &nbsp;success&nbsp; .-> processChat;
+	processUser -. &nbsp;failure&nbsp; .-> processResponse;
+	processChat -. &nbsp;success&nbsp; .-> processMessages;
+	processChat -. &nbsp;failure&nbsp; .-> processResponse;
+	processMessages -. &nbsp;success&nbsp; .-> processAugment;
+	processMessages -. &nbsp;failure&nbsp; .-> processResponse;
+	processAugment -. &nbsp;success&nbsp; .-> processAction;
+	processAugment -. &nbsp;failure&nbsp; .-> processResponse;
+	classDef default fill:#f2f0ff,line-height:1.2;
+	classDef first fill-opacity:0;
+	classDef last fill:#bfb6fc;

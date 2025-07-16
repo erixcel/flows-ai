@@ -10,6 +10,8 @@ import { ProcessAugmentService } from "./nodos/process-augment.service";
 import { ProcessResponseService } from "./nodos/process-response.service";
 import { ProcessSendService } from "./nodos/process-send.service";
 import { FlowService } from "./flow/flow.service";
+import { ConversationModule } from "../conversation/conversation.module";
+import { ClientModule } from "../client/client.module";
 
 @Module({
     controllers: [AgentEngineController],
@@ -24,6 +26,10 @@ import { FlowService } from "./flow/flow.service";
         ProcessResponseService,
         ProcessSendService,
         FlowService,
+    ],
+    imports: [
+        ConversationModule,
+        ClientModule,
     ],
     exports: [AgentEngineService],
 })

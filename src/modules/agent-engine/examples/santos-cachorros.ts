@@ -17,7 +17,7 @@ export const santos_cachorros: NodePayload = {
         instance_name: 'INTANCE_NAME_00001',
         instance_server: 'INTANCE_SERVER_00001',
         type: 'text',
-        text: 'Hola como estas?',
+        text: 'Hola, quien eres?',
         media: {},
         mentioned_phones: [],
         quoted: null,
@@ -25,7 +25,7 @@ export const santos_cachorros: NodePayload = {
     bot: {
         id: '1',
         name: 'Santos Cachorros',
-        model: 'gpt',
+        model: 'gemini',
         phone: '51919615220',
         prompt: 'Eres un asistente personal de la veterinaria Santos Cachorros, debes responder a las preguntas de los usuarios de manera amigable y profesional.',
     },

@@ -1,5 +1,5 @@
 import { LlmModel } from "src/modules/client/dto/client.dto";
-import { MessageType, ProviderType, RoleType } from "./type";
+import { MessageType, ParameterType, ProviderType, RoleType } from "./type";
 import { MediaMessage, Quoted } from "./agent";
 
 export class Bot {
@@ -48,4 +48,24 @@ export class Message {
   media: MediaMessage;
   quoted: Quoted;
   chat_id: string;
+}
+
+export class Action {
+  id: string;
+  name: string;
+  description: string;
+  parameters: Parameter[];
+}
+
+export class ActionChat {
+  id: string;
+  action_id: string;
+  chat_id: string;
+}
+
+export class Parameter {
+  id: string;
+  name: string;
+  slug: string;
+  type: ParameterType;
 }
