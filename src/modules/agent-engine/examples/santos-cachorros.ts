@@ -17,7 +17,7 @@ export const santos_cachorros: NodePayload = {
         instance_name: 'INTANCE_NAME_00001',
         instance_server: 'INTANCE_SERVER_00001',
         type: 'text',
-        text: 'Hola, quien eres?',
+        text: 'en que me puedes ayudar?',
         media: {},
         mentioned_phones: [],
         quoted: null,

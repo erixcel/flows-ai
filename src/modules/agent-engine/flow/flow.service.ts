@@ -1,7 +1,7 @@
 import { ClientService } from './../../client/client.service';
 import { Injectable } from "@nestjs/common";
 import { StateGraph, START, END } from "@langchain/langgraph";
-import { NodeResponse, contextDefinition, Context, NodePayload } from "../dto/agent";
+import { NodeResponse, context_definition, Context, NodePayload } from "../dto/agent";
 import { ProcessUserService } from "../nodos/process-user.service";
 import { ProcessBotService } from "../nodos/process-bot.service";
 import { ProcessChatService } from "../nodos/process-chat.service";
@@ -69,7 +69,7 @@ export class FlowService {
 
   async run(nodePayload: NodePayload): Promise<NodeResponse> {
 
-    const workflow = new StateGraph(contextDefinition)
+    const workflow = new StateGraph(context_definition)
       .addNode("processBot",       this.processBot.bind(this))
       .addNode("processUser",      this.processUser.bind(this))
       .addNode("processChat",      this.processChat.bind(this))

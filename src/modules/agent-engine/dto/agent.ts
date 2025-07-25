@@ -3,7 +3,7 @@ import { Bot, BotProvider, Chat, Message, User } from "./tables";
 import { Template } from "./templates";
 import { MessageType, ProviderType } from "./type";
 
-export const contextDefinition = Annotation.Root({
+export const context_definition = Annotation.Root({
   payload: Annotation<NodePayload>({
     reducer: (_prev, next) => next,
     default: () => ({
@@ -24,7 +24,7 @@ export const contextDefinition = Annotation.Root({
   }),
 });
 
-export type Context = typeof contextDefinition.State;
+export type Context = typeof context_definition.State;
 
 export class NodeResponse {
   status: boolean = true;
