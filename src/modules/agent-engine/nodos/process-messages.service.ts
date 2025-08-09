@@ -1,5 +1,5 @@
 import { Injectable } from "@nestjs/common";
-import { NodePayload, NodeResponse, Context } from "../dto/agent";
+import { NodePayload, NodeResponse, Context } from "../model/agent";
 
 @Injectable()
 export class ProcessMessagesService {

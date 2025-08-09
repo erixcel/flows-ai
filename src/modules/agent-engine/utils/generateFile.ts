@@ -1,5 +1,6 @@
 import { promises as fs } from 'fs';
 import * as path from 'path';
+
 export async function generateMermaid(
   pathFromRoot: string,
   content: string

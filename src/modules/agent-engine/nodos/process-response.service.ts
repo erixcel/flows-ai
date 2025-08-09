@@ -1,7 +1,7 @@
 import { Injectable } from "@nestjs/common";
-import { NodePayload, NodeResponse, Context } from "../dto/agent";
+import { NodePayload, NodeResponse, Context } from "../model/agent";
 import { ConversationService } from "src/modules/conversation/conversation.service";
-import { SendText, Template } from "../dto/templates";
+import { SendText, Template } from "../model/templates";
 
 @Injectable()
 export class ProcessResponseService {
@@ -25,9 +25,8 @@ export class ProcessResponseService {
         const response = await this.conversationService.handleBasicConversation(data);
 
         const templateText: SendText = new SendText();
-        templateText.template_id = "send_text_evolution";
-        templateText.number = context.payload.entry.phone_user;
-        templateText.text = response;
+        templateText.to = context.payload.entry.phone_user;
+        templateText.text.body = response;
         
         context.result.templates.push(templateText);
 

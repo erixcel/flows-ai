@@ -1,10 +1,13 @@
 import { Injectable } from "@nestjs/common";
-import { Context } from "../dto/agent";
+import { Context } from "../model/agent";
+import { santos_cachorros } from "../examples/santos-cachorros";
 
 @Injectable()
 export class ProcessBotService {
 
     async process(context: Context): Promise<Context> {
+        const bot = santos_cachorros.bot;
+        context.payload.bot = bot;
         return { payload: context.payload, result: context.result };
     }
 }

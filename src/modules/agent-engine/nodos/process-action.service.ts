@@ -1,5 +1,5 @@
 import { Injectable } from "@nestjs/common";
-import { Context } from "../dto/agent";
+import { Context } from "../model/agent";
 
 @Injectable()
 export class ProcessActionService {

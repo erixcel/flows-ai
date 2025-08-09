@@ -6,20 +6,6 @@ import { FileInterceptor } from "@nestjs/platform-express";
 @Controller("embedding")
 export class EmbeddingController {
   constructor(private embeddingService: EmbeddingService) {}
-
-  @Post('upload-domus-document')
-  @UseInterceptors(FileInterceptor('file'))
-  async uploadDomusDocument(
-    @UploadedFile() file: Express.Multer.File,
-    @Body('database') database: string,
-    @Body('collection') collection: string,
-  ): Promise<void> {
-    if (!file) throw new Error('No se adjuntó ningún archivo');
-    const data = await this.embeddingService.splitTextParagraphs(file.buffer.toString());
-    const name = file.originalname.substring(0, file.originalname.lastIndexOf('.'));
-    const extra = { building: name };
-    await this.embeddingService.registerEmbeddingsAtlas(data, database, collection, extra);
-  }
   
   @Post('register-embeddings-atlas')
   async registerEmbeddingsAtlas(

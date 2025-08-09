@@ -12,10 +12,12 @@ import { ProcessSendService } from "./nodos/process-send.service";
 import { FlowService } from "./flow/flow.service";
 import { ConversationModule } from "../conversation/conversation.module";
 import { ClientModule } from "../client/client.module";
+import { AdapterService } from "./adapter/adapter.service";
 
 @Module({
     controllers: [AgentEngineController],
     providers: [
+        AdapterService,
         AgentEngineService,
         ProcessBotService,
         ProcessUserService,

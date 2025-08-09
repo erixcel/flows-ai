@@ -1,7 +1,7 @@
 import { ClientService } from './../../client/client.service';
 import { Injectable } from "@nestjs/common";
 import { StateGraph, START, END } from "@langchain/langgraph";
-import { NodeResponse, context_definition, Context, NodePayload } from "../dto/agent";
+import { NodeResponse, context_definition, Context, NodePayload } from "../model/agent";
 import { ProcessUserService } from "../nodos/process-user.service";
 import { ProcessBotService } from "../nodos/process-bot.service";
 import { ProcessChatService } from "../nodos/process-chat.service";
@@ -10,7 +10,7 @@ import { ProcessAugmentService } from "./../nodos/process-augment.service";
 import { ProcessActionService } from "./../nodos/process-action.service";
 import { ProcessResponseService } from "./../nodos/process-response.service";
 import { ProcessSendService } from "../nodos/process-send.service";
-import { traceable } from "langsmith/traceable";
+import { getCurrentRunTree, traceable } from "langsmith/traceable";
 
 @Injectable()
 export class FlowService {
@@ -109,13 +109,29 @@ export class FlowService {
 
     // const graph = await app.getGraphAsync();
     // await generateMermaid('src/modules/agent-engine/flow/flow-diagram', graph.drawMermaid());
+
     const response = await traceable(
-      async () => app.invoke({ payload: nodePayload, result: new NodeResponse() }),
-      { 
-        name: nodePayload.bot.name, 
-        project_name: this.clientService.getLangSmithProject(), 
-        metadata: { session_id: nodePayload.chat.id } 
+      async () => {
+
+        const result = await app.invoke({ payload: nodePayload, result: new NodeResponse() });
+        const rt = getCurrentRunTree();
+
+        const bot_id = result?.payload?.bot?.id ?? nodePayload?.bot?.id;
+        const chat_id = result?.payload?.chat?.id ?? nodePayload?.chat?.id;
+
+        if (bot_id && chat_id && rt) {
+          rt.extra = rt.extra ?? {};
+          rt.name = bot_id;
+          rt.extra.metadata = { session_id: chat_id };
+        }
+
+        return result;
       },
+      {
+        name: "temporal-bot-id",
+        project_name: this.clientService.getLangSmithProject(),
+        metadata: { session_id: "temporal-chat-id" },
+      }
     )();
 
     console.log("Workflow response:", JSON.stringify(response, null, 2));
