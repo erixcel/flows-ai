@@ -6,8 +6,12 @@ import { santos_cachorros } from "../examples/santos-cachorros";
 export class ProcessChatService {
 
     async process(context: Context): Promise<Context> {
+
         const chat = santos_cachorros.chat;
-        context.payload.chat = chat;
-        return { payload: context.payload, result: context.result };
+
+        return {
+            payload: { ...context.payload, chat: chat },
+            result:  { ...context.result }
+        };
     }
 }

@@ -6,8 +6,12 @@ import { santos_cachorros } from "../examples/santos-cachorros";
 export class ProcessBotService {
 
     async process(context: Context): Promise<Context> {
+
         const bot = santos_cachorros.bot;
-        context.payload.bot = bot;
-        return { payload: context.payload, result: context.result };
+
+        return {
+            payload: { ...context.payload, bot: bot },
+            result:  { ...context.result }
+        };
     }
 }

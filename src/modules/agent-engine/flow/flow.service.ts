@@ -114,27 +114,18 @@ export class FlowService {
       async () => {
 
         const result = await app.invoke({ payload: nodePayload, result: new NodeResponse() });
-        const rt = getCurrentRunTree();
+        const current_run = getCurrentRunTree();
 
-        const bot_id = result?.payload?.bot?.id ?? nodePayload?.bot?.id;
-        const chat_id = result?.payload?.chat?.id ?? nodePayload?.chat?.id;
-
-        if (bot_id && chat_id && rt) {
-          rt.extra = rt.extra ?? {};
-          rt.name = bot_id;
-          rt.extra.metadata = { session_id: chat_id };
-        }
+        current_run.extra.metadata = { session_id: result?.payload?.chat?.id };
 
         return result;
       },
       {
-        name: "temporal-bot-id",
+        name: nodePayload.entry.waba_id,
         project_name: this.clientService.getLangSmithProject(),
-        metadata: { session_id: "temporal-chat-id" },
       }
     )();
 
-    console.log("Workflow response:", JSON.stringify(response, null, 2));
     return response.result;
   }
 }

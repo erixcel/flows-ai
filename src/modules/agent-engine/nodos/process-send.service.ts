@@ -5,6 +5,9 @@ import { Context } from "../model/agent";
 export class ProcessSendService {
 
     async process(context: Context): Promise<Context> {
-        return { payload: context.payload, result: context.result };
+        return {
+            payload: { ...context.payload },
+            result:  { ...context.result }
+        };
     }
 }

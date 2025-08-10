@@ -20,16 +20,17 @@ export class ProcessResponseService {
             input: context.payload.entry.text,
         }
 
-        console.log("Processing response with data:", data);
-
         const response = await this.conversationService.handleBasicConversation(data);
 
         const templateText: SendText = new SendText();
         templateText.to = context.payload.entry.phone_user;
         templateText.text.body = response;
-        
-        context.result.templates.push(templateText);
 
-        return { payload: context.payload, result: context.result };
+        const templates: Template[] = [templateText];
+
+        return {
+            payload: { ...context.payload },
+            result:  { ...context.result, templates: templates }
+        };
     }
 }
